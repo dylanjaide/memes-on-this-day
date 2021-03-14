@@ -15,8 +15,9 @@
 
 
 html {
+    position: relative;
+    min-height: 100%;
     scroll-behavior: smooth;
-    scroll-padding-top: 48px; /* height of top padding */
 }
 
 body {
@@ -33,15 +34,6 @@ div.sticky {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-}
-
-div.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    margin-bottom: 8px;
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -94,7 +86,9 @@ p a:hover {
 
 
 div#wrapper {
+    min-height: 100%;
     width: 640px;
+    margin-bottom: 32px;
 }
 
 
@@ -104,7 +98,7 @@ div#wrapper {
 div#header {
     height: auto;
     width: 100%;
-    margin-top: 32px;
+    padding-top: 32px;
     
     text-align: center;
 }
@@ -169,4 +163,19 @@ div#result img {
 div#result p {
     display: inline-block;
     margin-top: 5px;
+}
+
+
+
+
+
+
+footer.site-footer {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    padding: 6px 0px;
+    
+    text-align: center;
 }
