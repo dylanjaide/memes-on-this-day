@@ -91,7 +91,7 @@ function display_result(day, month, meme_json) {
         var resultYtEmbed = document.getElementById("result-ytembed");
         resultYtEmbed.style.display = "block";
         resultYtEmbed.height = 315;
-        resultYtEmbed.src = "".concat("https://www.youtube.com/embed/", meme_json.youtube, "?feature=oembed&showinfo=0");
+        resultYtEmbed.src = "".concat("https://www.youtube.com/embed/", meme_json.youtube);
     }
     // Image
     if (meme_json.image != false) {
