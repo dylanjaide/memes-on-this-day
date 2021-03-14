@@ -95,10 +95,28 @@ var meme_data = {
     "25March": [],
     "26March": [],
     "27March": [],
-    "28March": [],
+    "28March": [
+        {
+            "title": "\"THEN WHO WAS PHONE?\" creepypasta posted",
+            "year": 2008,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/109/415/tumblr_lg46betBTg1qzptwgo1_500.jpg",
+            "info": "On this day, an anonymous 4chan user posted this mock-creepypasta on /x/, the paranormal board. The closing sentence, \"THEN WHO WAS PHONE?\", became a catchphrase of sorts, and spread to other websites including Yahoo Answers.",
+            "kym": "https://knowyourmeme.com/memes/then-who-was-phone"
+        }
+    ],
     "29March": [],
     "30March": [],
-    "31March": [],
+    "31March": [
+        {
+            "title": "Sanic Hegehog created",
+            "year": 2011,
+            "youtube": "Eo_gJwXxshQ",
+            "image": false,
+            "info": "!!! Warning: the above video contains very loud music !!!\n\nOn this day, YouTube user 0nyxheart uploaded this video of themself drawing Sonic the Hedgehog in MS Paint, with a distorted version of \"Green Hill Zone\" played overtop. This image and music both became iconic - the drawing was even referenced in 2017 game Sonic Forces, and the 2020 Sonic the Hedgehog movie. The original video was eventually taken down, although mirrors (such as the one above) still exist.",
+            "kym": "https://knowyourmeme.com/memes/sanic-hegehog"
+        }
+    ],
     "1April": [],
     "2April": [
         {
@@ -166,7 +184,16 @@ var meme_data = {
     "8May": [],
     "9May": [],
     "10May": [],
-    "11May": [],
+    "11May": [
+        {
+            "title": "\"Leeroy Jenkins\" video posted",
+            "year": 2005,
+            "youtube": "sAooq7e0gg0",
+            "image": false,
+            "info": "On this day, the World of Warcraft guild \"PalsForLife\" uploaded this video to Warcraft Movies. It was shared widely, and was uploaded to YouTube about six months later. From there, it became recognisable even outside the world of gaming, even being referenced on Jeopardy later that year.",
+            "kym": "https://knowyourmeme.com/memes/leeroy-jenkins"
+        }
+    ],
     "12May": [],
     "13May": [],
     "14May": [],
@@ -288,7 +315,7 @@ var meme_data = {
             "year": 2007,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/185/885/SANDCASTLES.png",
-            "info": "On this day, photographer Laney Griner took this photograph of her child Sammy. Initially, it was typically captioned with \"I Hate Sandcastles\", but later became the basis of the Success Kid meme, which would go on to be used in many adverts as well as by the then-president of the US, Barack Obama. In 2015, the family used this image to help raise awareness of a fundraiser for a kidney transplant for Sammy's father, Justin - they reached their $75,000 goal within days, and the surgery was successful.",
+            "info": "On this day, photographer Laney Griner took this photograph of her child Sammy. Initially, it was typically captioned with \"I Hate Sandcastles\", but later became the basis of the Success Kid meme. This was a hugely popular meme format, making the photo one of the most recognisable on the internet. In 2015, the family used the photo to help raise awareness of a fundraiser for a kidney transplant for Sammy's father, Justin - they reached their $75,000 goal within a few days, and the surgery was successful.",
             "kym": "https://knowyourmeme.com/memes/success-kid-i-hate-sandcastles"
         }
     ],
@@ -311,7 +338,16 @@ var meme_data = {
     "12September": [],
     "13September": [],
     "14September": [],
-    "15September": [],
+    "15September": [
+        {
+            "title": "Undertale released",
+            "year": 2015,
+            "youtube": false,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Undertale_vector_logo_on_black_borders.svg/1920px-Undertale_vector_logo_on_black_borders.svg.png",
+            "info": "On this day, Toby Fox released Undertale. It was hugely well received by fans, many of whom had supported the game on Kickstarter 2 years earlier. Many different memes originate from Undertale and the fan culture surrounding it, including the Annoying Dog, Megalovania, \"You're gonna have a bad time\", Temmie covers, and Papyrus' spaghetti.",
+            "kym": "https://knowyourmeme.com/memes/subcultures/undertale"
+        }
+    ],
     "16September": [],
     "17September": [],
     "18September": [],
@@ -345,7 +381,16 @@ var meme_data = {
     "7October": [],
     "8October": [],
     "9October": [],
-    "10October": [],
+    "10October": [
+        {
+            "title": "The Orange Box released",
+            "year": 2007,
+            "youtube": false,
+            "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Hltob-win-cover.jpg",
+            "info": "On this day, Valve published a compilation of games, of which 3 were new releases: Half Life 2: Episode Two, Portal, and Team Fortress 2. Each of these franchises have their own assortments of popular memes, although some notable ones include \"Half Life 3 Confirmed\", \"The Cake is a Lie\", and Nope.avi.",
+            "kym": "https://knowyourmeme.com/memes/subcultures/valve"
+        }
+    ],
     "11October": [],
     "12October": [],
     "13October": [],
@@ -393,7 +438,16 @@ var meme_data = {
     "24November": [],
     "25November": [],
     "26November": [],
-    "27November": [],
+    "27November": [
+        {
+            "title": "\"Bode\" created",
+            "year": 2016,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/195/668/4ac.png",
+            "info": "On this day, Tumblr user loghains posted this. In it, they say that they dreamt of a new meme format, in which pictures of fat cats are captioned with \"bode\" (short for bodacious). Within a few days, other Tumblr users had started to create memes using this format, and it became a popular format on the site.",
+            "kym": "https://knowyourmeme.com/memes/bode"
+        }
+    ],
     "28November": [],
     "29November": [],
     "30November": [],
