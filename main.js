@@ -58,7 +58,9 @@ function clear_display() {
     resultYtEmbed.style.display = "none";
     resultYtEmbed.height = 0;
     resultYtEmbed.src = "";
-    document.getElementById("result-img").src = "";
+    var resultImage = document.getElementById("result-img");
+    resultImage.style.display = "none";
+    resultImage.src = "";
     document.getElementById("result-info").innerText = "";
     var resultKymLink = document.getElementById("result-kymlink");
     resultKymLink.href = "";
@@ -89,7 +91,7 @@ function display_result(day, month, meme_json) {
         var resultYtEmbed = document.getElementById("result-ytembed");
         resultYtEmbed.style.display = "block";
         resultYtEmbed.height = 315;
-        resultYtEmbed.src = "".concat("https://www.youtube.com/embed/", meme_json.youtube);
+        resultYtEmbed.src = "".concat("https://www.youtube.com/embed/", meme_json.youtube, "?feature=oembed&showinfo=0");
     }
     // Image
     if (meme_json.image != false) {

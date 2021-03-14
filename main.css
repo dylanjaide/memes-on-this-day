@@ -73,11 +73,11 @@ h3, h3 a {
 
 h6, h6 a {
     font-size: 10pt;
-    color: #777;
+    color: #666;
 }
 
 h6 a:hover {
-    color: #444;
+    color: #333;
 }
 
 p, p a {
@@ -134,6 +134,11 @@ div#form-container {
 div#form-container > form {
     display: inline-block;
 }
+
+form select, form input {
+    font-size: 11pt;
+}
+
 
 
 
