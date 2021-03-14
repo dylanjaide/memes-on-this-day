@@ -2,17 +2,44 @@ var meme_data = {
     "1January": [],
     "2January": [],
     "3January": [],
-    "4January": [],
+    "4January": [
+        {
+            "title": "\"In this moment, I am euphoric\" created",
+            "year": 2013,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/616/502/e92.png",
+            "info": "On this day, Reddit user Aalewis made a (now deleted) post on /r/atheism, containing a quote they had created themself: \"In this moment, I am euphoric. Not because of any phony god's blessing. But because, I am enlightened by my intelligence.\" This post was massively unpopular, receiving nearly 3,000 downvotes and being cross-posted to /r/cringe.\n\nLater in the same day, another Reddit user attached the quote to an image of astrophysicist Neil deGrasse Tyson, making the words appear as if they were his, and posted it back to /r/atheism. In contrast to the original post, this image was received overwhelmingly positively, even reaching the front page of the entire website.",
+            "kym": "https://knowyourmeme.com/memes/futurama-fry-not-sure-if"
+        }
+    ],
     "5January": [],
     "6January": [],
     "7January": [],
     "8January": [],
     "9January": [],
     "10January": [],
-    "11January": [],
+    "11January": [
+        {
+            "title": "Nope.avi uploaded",
+            "year": 2010,
+            "youtube": "gvdf5n-zI14k",
+            "image": false,
+            "info": "On this day, YouTube user Jimbomcb uploaded this video of the Engineer from Team Fortress 2, made using Source Film Maker. This video was widely used in the game's community, typically in reaction to other posts or questions, though it has also seen more general use on other sites including Reddit and 4chan.",
+            "kym": "https://knowyourmeme.com/memes/nopeavi"
+        }
+    ],
     "12January": [],
     "13January": [],
-    "14January": [],
+    "14January": [
+        {
+            "title": "\"It is Wednesday, my dudes\" Vine posted",
+            "year": 2015,
+            "youtube": "du-TY1GUFGk",
+            "image": false,
+            "info": "On this day, Vine user JimmyHere uploaded this Vine, which was inspired by an image first posted by Tumblr user kidpix2 a few weeks previously. This is now widely regarded as one of the most popular Vines ever made, and has been widely parodied and even remixed.",
+            "kym": "https://knowyourmeme.com/memes/it-is-wednesday-my-dudes"
+        }
+    ],
     "15January": [],
     "16January": [],
     "17January": [],
@@ -63,14 +90,32 @@ var meme_data = {
     "22February": [],
     "23February": [],
     "24February": [],
-    "25February": [],
+    "25February": [
+        {
+            "title": "The Dress image posted",
+            "year": 2015,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/920/899/715.jpg",
+            "info": "On this day, Tumblr user swiked posted this photograph of a dress, after they and their friends were not able to agree whether it was black and blue or white and gold. The question divided users, and within days the image was also being debated on most major social media platforms, including Reddit, Twitter, and Instagram. A Buzzfeed poll and ratios of Twitter hashtags indicated that about three quarters of people saw white and gold, while the remaining quarter saw black and blue.",
+            "kym": "https://knowyourmeme.com/memes/the-dress-what-color-is-this-dress"
+        }
+    ],
     "26February": [],
     "27February": [],
     "28February": [],
     "29February": [],
     "1March": [],
     "2March": [],
-    "3March": [],
+    "3March": [
+        {
+            "title": "Actual Cannibal Shia LaBeouf song uploaded",
+            "year": 2012,
+            "youtube": "o0u4M6vppCI",
+            "image": false,
+            "info": "On this day, Rob Cantor, a member of the band Tally Hall, posted a song entitled \"Shia LaBeouf\" to their SoundCloud. The song tells a story in which the listener takes on the role of a person who encounters actor Shia LaBeouf in the woods, who attempts and eat the listener. Two years later, Cantor would upload this video of a performance of the song, at the end of which it is revealed that Shia LaBeouf is the sole audience member.",
+            "kym": "https://knowyourmeme.com/memes/actual-cannibal-shia-labeouf"
+        }
+    ],
     "4March": [],
     "5March": [],
     "6March": [],
@@ -113,7 +158,7 @@ var meme_data = {
             "year": 2011,
             "youtube": "Eo_gJwXxshQ",
             "image": false,
-            "info": "!!! Warning: the above video contains very loud music !!!\n\nOn this day, YouTube user 0nyxheart uploaded this video of themself drawing Sonic the Hedgehog in MS Paint, with a distorted version of \"Green Hill Zone\" played overtop. This image and music both became iconic - the drawing was even referenced in 2017 game Sonic Forces, and the 2020 Sonic the Hedgehog movie. The original video was eventually taken down, although mirrors (such as the one above) still exist.",
+            "info": "!!! Warning: the above video contains very loud music !!!\n\nOn this day, YouTube user 0nyxheart uploaded this video of themself drawing Sonic the Hedgehog in MS Paint, with a distorted version of Green Hill Zone played overtop. This image and music both became iconic - the drawing was even referenced in 2017 game Sonic Forces, and the 2020 Sonic the Hedgehog movie. The original video was eventually taken down, although mirrors (such as the one above) still exist.",
             "kym": "https://knowyourmeme.com/memes/sanic-hegehog"
         }
     ],
@@ -131,7 +176,7 @@ var meme_data = {
     "3April": [],
     "4April": [
         {
-            "title": "Tardar Sauce (Grumpy Cat) born",
+            "title": "Grumpy Cat born",
             "year": 2012,
             "youtube": false,
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg/800px-Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg",
@@ -145,7 +190,7 @@ var meme_data = {
             "year": 2011,
             "youtube": "QH2-TGUlwu4",
             "image": false,
-            "info": "On this day, YouTube user saraj00n combined Chris Torres' \"Pop-Tart Cat\" GIF, which had been first uploaded just a few days prior, with the Utauloid Momo Momone's cover of the song \"Nyanyanyanyanyanyanya\".",
+            "info": "On this day, YouTube user saraj00n combined Chris Torres' Pop-Tart Cat GIF, which had been first uploaded just a few days prior, with the Utauloid Momo Momone's cover of the song \"Nyanyanyanyanyanyanya\".",
             "kym": "https://knowyourmeme.com/memes/nyan-cat"
         }
     ],
@@ -186,11 +231,11 @@ var meme_data = {
     "10May": [],
     "11May": [
         {
-            "title": "\"Leeroy Jenkins\" video posted",
+            "title": "Leeroy Jenkins video posted",
             "year": 2005,
             "youtube": "sAooq7e0gg0",
             "image": false,
-            "info": "On this day, the World of Warcraft guild \"PalsForLife\" uploaded this video to Warcraft Movies. It was shared widely on a number of sites, and eventually uploaded to YouTube about six months later. In that time, it had become recognisable outside the world of gaming, and was even referenced on Jeopardy.",
+            "info": "On this day, the World of Warcraft guild PalsForLife uploaded this video to Warcraft Movies. It was shared widely on a number of sites, and eventually uploaded to YouTube about six months later. In that time, it had become recognisable outside the world of gaming, and was even referenced on Jeopardy.",
             "kym": "https://knowyourmeme.com/memes/leeroy-jenkins"
         }
     ],
@@ -200,7 +245,16 @@ var meme_data = {
     "15May": [],
     "16May": [],
     "17May": [],
-    "18May": [],
+    "18May": [
+        {
+            "title": "Shrek released",
+            "year": 2001,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/entries/icons/original/000/012/178/shrek.jpg",
+            "info": "On this day, the film Shrek, based on the book by William Steig, was released in the USA. However, the huge online popularity of the character didn't begin until almost a decade later, after the release of the fourth (and, at the time, supposedly final) Shrek film.",
+            "kym": "https://knowyourmeme.com/memes/subcultures/shrek"
+        }
+    ],
     "19May": [],
     "20May": [],
     "21May": [],
@@ -216,7 +270,7 @@ var meme_data = {
             "year": 2016,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/200/734/6d5.jpg",
-            "info": "On this day, Harambe the Western lowland gorilla was shot and killed after a 4-year-old child crawled into the gorilla enclosure at Cincinnati Zoo. This spawned a \"Justice for Harambe\" petition, as well as many memes - unfortunately, a portion of these memes were racist in nature.",
+            "info": "On this day, Harambe the Western lowland gorilla was shot and killed after a 4-year-old child crawled into the gorilla enclosure at Cincinnati Zoo. This spawned a Justice for Harambe petition, as well as many memes - unfortunately, a portion of these memes were racist in nature.",
             "kym": "https://knowyourmeme.com/memes/harambe-the-gorilla"
         }
     ],
@@ -233,7 +287,16 @@ var meme_data = {
     "8June": [],
     "9June": [],
     "10June": [],
-    "11June": [],
+    "11June": [
+        {
+            "title": "Sea of Thieves/Griffin McElroy banana cronch",
+            "year": 2017,
+            "youtube": "8P2o_8s_GDo",
+            "image": false,
+            "info": "On this day, the gameplay trailer for Sea of Thieves was revealed at E3. Griffin McElroy, a podcaster who at the time was also a video games journalist at Polygon, commented on a scene from it, in which the character appears to eat a banana stem-first without removing the skin. During an interview later that day, McElroy bit into a banana in a similar fashion. This video is notable for the distinctive \"cronch\" sound made.",
+            "kym": "https://knowyourmeme.com/memes/sea-of-thieves-unpeeled-banana"
+        }
+    ],
     "12June": [],
     "13June": [],
     "14June": [],
@@ -241,7 +304,24 @@ var meme_data = {
     "16June": [],
     "17June": [],
     "18June": [],
-    "19June": [],
+    "19June": [
+        {
+            "title": "Smudge the cat photo uploaded",
+            "year": 2018,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/505/718/136.jpg",
+            "info": "On this day, this image was first posted by Tumblr user deadbefordeath, with the title \"he no like vegetals\". It gained popularity over the next year, notably being used as either a reaction image, or in combination with a still from The Real Housewives of Beverly Hills to form the Woman Yelling at a Cat meme format.",
+            "kym": "https://knowyourmeme.com/memes/smudge-the-cat"
+        },
+        {
+            "title": "First appearance of Man Door Hand Hook Car Door",
+            "year": 2012,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/997/110/e9f.png",
+            "info": "On this day, this mock-creepypasta first appeared on 4chan. It gained more widespread popularity over the next few years, on YouTube and Tumblr. One notable variation is a parody of \"Mr. Sandman\" by The Chordettes, which features bastardised lyrics including a variation of this phrase.",
+            "kym": "https://knowyourmeme.com/memes/man-door-hand-hook-car-door"
+        }
+    ],
     "20June": [],
     "21June": [],
     "22June": [],
@@ -250,7 +330,16 @@ var meme_data = {
     "25June": [],
     "26June": [],
     "27June": [],
-    "28June": [],
+    "28June": [
+        {
+            "title": "Spider Man 2 video game released",
+            "year": 2004,
+            "youtube": "czTksCF6X8Y",
+            "image": false,
+            "info": "On this day, the video game Spider Man 2 was released on PC and consoles. The game itself was generally well-received, although it's best known in many online circles for the music that plays during pizza delivery missions. This music is an arrangement of \"Funiculì, Funiculà\", a Neapolitan song composed by Luigi Denza for the 1880 opening of the first funicular to the summit of Mount Vesuvius. Since the game's release, the Spider Man 2 version has been a popular candidate for remixes, and has also been used to accompany other meme videos.",
+            "kym": "https://knowyourmeme.com/memes/spider-man-2-pizza-delivery-theme"
+        }
+    ],
     "29June": [],
     "30June": [],
     "1July": [],
@@ -263,12 +352,30 @@ var meme_data = {
     "8July": [],
     "9July": [],
     "10July": [],
-    "11July": [],
+    "11July": [
+        {
+            "title": "DashCon opens",
+            "year": 2014,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/792/535/ee5.png",
+            "info": "On this day, the Tumblr fan convention DashCon began. This event took place over three days, and was notable for being terribly mismanaged, and \"a disaster\". Particularly noteworthy events included the cast of podcast Welcome to Night Vale cancelling their appearance due to mistakenly being told their accomodation would be provided, and the proceeding rumours that attendees would be compensated for this by getting \"an extra hour in the ball pit\". The ball pit in an empty room became emblematic of the disappointment of the event.",
+            "kym": "https://knowyourmeme.com/memes/events/dashcon"
+        }
+    ],
     "12July": [],
     "13July": [],
     "14July": [],
     "15July": [],
-    "16July": [],
+    "16July": [
+        {
+            "title": "Burger King Foot Lettuce post",
+            "year": 2012,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/original/001/337/421/a78.png",
+            "info": "On this day, an anonymous 4chan user posted this image, with the caption \"This is the lettuce you eat at Burger King.\" Within a day, other 4chan users had used the image's Exif data to identify the location of the branch this was taken at, and contacted both local news and the branch manager. In response to seeing the picture, the manager said \"Oh, I know who that is. He's getting fired.\"",
+            "kym": "https://knowyourmeme.com/memes/burger-king-foot-lettuce"
+        }
+    ],
     "17July": [],
     "18July": [],
     "19July": [],
@@ -311,7 +418,7 @@ var meme_data = {
     "25August": [],
     "26August": [
         {
-            "title": "\"Success Kid\" photo taken",
+            "title": "Success Kid photo taken",
             "year": 2007,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/185/885/SANDCASTLES.png",
@@ -357,7 +464,7 @@ var meme_data = {
     "22September": [],
     "23September": [
         {
-            "title": "Photos of Tardar Sauce (Grumpy Cat) first posted to Reddit",
+            "title": "Grumpy Cat photos posted",
             "year": 2012,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/406/325/b31.jpg",
@@ -440,7 +547,7 @@ var meme_data = {
     "26November": [],
     "27November": [
         {
-            "title": "\"Bode\" created",
+            "title": "Bode created",
             "year": 2016,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/195/668/4ac.png",
@@ -460,7 +567,16 @@ var meme_data = {
     "7December": [],
     "8December": [],
     "9December": [],
-    "10December": [],
+    "10December": [
+        {
+            "title": "\"It is Wednesday, my dudes\" image posted",
+            "year": 2014,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/091/264/665.jpg",
+            "info": "On this day, Tumblr user kidpix2 posted this image with the title \"Wednesday\". A few weeks later, Vine user JimmyHere would adapt it into what is now one of the most well-known Vines ever made.",
+            "kym": "https://knowyourmeme.com/memes/it-is-wednesday-my-dudes"
+        }
+    ],
     "11December": [],
     "12December": [],
     "13December": [],
