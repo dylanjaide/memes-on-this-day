@@ -133,6 +133,14 @@ form select, form input {
     font-size: 11pt;
 }
 
+form select {
+    padding: 1px 2px;
+}
+
+form input#submitbutton {
+    padding: 1px 5px;
+}
+
 
 
 
