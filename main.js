@@ -33,7 +33,7 @@ function request_meme(day, month) {
     var data = meme_data[date];
     // If there is no data, display an error and return
     if (data.length < 1) {
-        display_error("Sorry - there is currently no meme data on file for ".concat(day, " ", month, "."));
+        display_error("Sorry - there are currently no memes in our records for ".concat(day, " ", month, "."));
         return false;
     }
     // Otherwise, randomly choose one entry to display
@@ -49,13 +49,14 @@ function clear_display() {
     // Clear error message
     var formErrorMessage = document.getElementById("form-error-message");
     formErrorMessage.innerText = "";
-    formErrorMessage.style.visibility = "hidden";
+    formErrorMessage.style.display = "none";
     
     // Clear meme display
-    document.getElementById("result").style.visibility = "hidden";
+    document.getElementById("result").style.display = "none";
     document.getElementById("result-title").innerText = "";
     var resultYtEmbed = document.getElementById("result-ytembed");
-    resultYtEmbed.style.visibility = "hidden";
+    resultYtEmbed.style.display = "none";
+    resultYtEmbed.height = 0;
     resultYtEmbed.src = "";
     document.getElementById("result-img").src = "";
     document.getElementById("result-info").innerText = "";
@@ -69,11 +70,9 @@ function clear_display() {
 
 function display_error(error) {
     clear_display();
-    document.getElementById("form-error-message").style.visibility = "visible";
-    
     var formErrorMessage = document.getElementById("form-error-message");
     formErrorMessage.innerText = error;
-    formErrorMessage.style.visibility = "visible";
+    formErrorMessage.style.display = "inline";
 }
 
 
@@ -81,17 +80,23 @@ function display_error(error) {
 
 function display_result(day, month, meme_json) {
     clear_display();
-    document.getElementById("result").style.visibility = "visible";
+    document.getElementById("result").style.display = "block";
     
     // Title
     document.getElementById("result-title").innerText = "".concat(day, " ", month, " ", meme_json.year.toString(), ": ", meme_json.title);
     // YouTube link
     if (meme_json.youtube != false) {
         var resultYtEmbed = document.getElementById("result-ytembed");
-        resultYtEmbed.style.visibility = "visible";
+        resultYtEmbed.style.display = "block";
+        resultYtEmbed.height = 315;
         resultYtEmbed.src = "".concat("https://www.youtube.com/embed/", meme_json.youtube);
     }
     // Image
+    if (meme_json.image != false) {
+        var resultImage = document.getElementById("result-img");
+        resultImage.style.display = "block";
+        resultImage.src = "".concat("img/", meme_json.image);
+    }
     // Info paragraph
     document.getElementById("result-info").innerText = meme_json.info;
     // KnowYourMeme link

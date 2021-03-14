@@ -24,7 +24,7 @@ body {
     background-color: #fcf8f8;
 }
 
-div.center {
+.center {
     margin-right: auto;
     margin-left: auto;
 }
@@ -73,11 +73,11 @@ h3, h3 a {
 
 h6, h6 a {
     font-size: 10pt;
-    color: #666;
+    color: #777;
 }
 
 h6 a:hover {
-    color: #888;
+    color: #444;
 }
 
 p, p a {
@@ -146,10 +146,22 @@ div#result {
 
 div#result h3 {
     display: inline-block;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+}
+
+div#result iframe {
+    display: block;
+    margin: 5px auto;
+}
+
+div#result img {
+    display: block;
+    max-width: 600px;
+    max-height: 600px;
+    margin: 5px auto;
 }
 
 div#result p {
     display: inline-block;
-    margin-top: 10px;
+    margin-top: 5px;
 }

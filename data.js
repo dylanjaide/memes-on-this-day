@@ -91,7 +91,16 @@ var meme_data = {
     "30March": [],
     "31March": [],
     "1April": [],
-    "2April": [],
+    "2April": [
+        {
+            "title": "Pop-Tart Cat GIF uploaded",
+            "year": 2011,
+            "youtube": false,
+            "image": "nyancat.gif",
+            "info": "On this day, illustrator Chris Torres (a.k.a. prguitarman) uploaded this GIF to LOL-COMICS and Tumblr. A few days later, YouTube user saraj00n would add music to this to create Nyan Cat as we know it today.",
+            "kym": "https://knowyourmeme.com/memes/nyan-cat"
+        }
+    ],
     "3April": [],
     "4April": [],
     "5April": [
