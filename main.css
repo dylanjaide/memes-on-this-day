@@ -1,0 +1,105 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  box-sizing: border-box;
+}
+
+
+
+
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 48px; /* height of top padding */
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: #fcf8f8;
+}
+
+div.center {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    text-rendering: optimizeLegibility;
+    display: inline;
+}
+
+
+
+
+
+div#wrapper {
+    width: 640px;
+}
+
+
+
+
+
+div#header {
+    height: auto;
+    width: 100%;
+    margin-top: 32px;
+    
+    text-align: center;
+}
+
+
+
+
+
+div#main {
+    height: auto;
+    width: 100%;
+    
+    text-align: center;
+}
+
+
+
+
+
+div#form-container {
+    height: auto;
+    width: 100%;
+    margin: 16px 0px;
+}
+
+div#form-container > form {
+    display: inline-block;
+}
+
+
+
+
+
+div#result {
+    height: auto;
+    width: 100%;
+}
+
+div#result h4 {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+div#result p {
+    display: inline-block;
+    margin-top: 10px;
+}
