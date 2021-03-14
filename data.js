@@ -190,7 +190,7 @@ var meme_data = {
             "year": 2005,
             "youtube": "sAooq7e0gg0",
             "image": false,
-            "info": "On this day, the World of Warcraft guild \"PalsForLife\" uploaded this video to Warcraft Movies. It was shared widely, and was uploaded to YouTube about six months later. From there, it became recognisable even outside the world of gaming, even being referenced on Jeopardy later that year.",
+            "info": "On this day, the World of Warcraft guild \"PalsForLife\" uploaded this video to Warcraft Movies. It was shared widely on a number of sites, and eventually uploaded to YouTube about six months later. In that time, it had become recognisable outside the world of gaming, and was even referenced on Jeopardy.",
             "kym": "https://knowyourmeme.com/memes/leeroy-jenkins"
         }
     ],
