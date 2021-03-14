@@ -7,6 +7,11 @@ $( document ).ready(function() {
         request_meme(day, month);
     });
     
+    // On page load: request a meme from the current date
+    var d = new Date();
+    var months_list = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+    request_meme(d.getDate().toString(), months_list[d.getMonth()]);
+    
 });
 
 
