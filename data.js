@@ -49,7 +49,16 @@ var meme_data = {
     "17February": [],
     "18February": [],
     "19February": [],
-    "20February": [],
+    "20February": [
+        {
+            "title": "Futurama S2E6 first airs",
+            "year": 2000,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/entries/icons/original/000/006/026/NOTSUREIF.jpg",
+            "info": "On this day, the Futurama episode \"The Lesser of Two Evils\" aired for the first time. About a decade later, this still image from the episode would become the basis of a widespread meme format.",
+            "kym": "https://knowyourmeme.com/memes/futurama-fry-not-sure-if"
+        }
+    ],
     "21February": [],
     "22February": [],
     "23February": [],
@@ -96,13 +105,22 @@ var meme_data = {
             "title": "Pop-Tart Cat GIF uploaded",
             "year": 2011,
             "youtube": false,
-            "image": "nyancat.gif",
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/114/779/0002.gif",
             "info": "On this day, illustrator Chris Torres (a.k.a. prguitarman) uploaded this GIF to LOL-COMICS and Tumblr. A few days later, YouTube user saraj00n would add music to this to create Nyan Cat as we know it today.",
             "kym": "https://knowyourmeme.com/memes/nyan-cat"
         }
     ],
     "3April": [],
-    "4April": [],
+    "4April": [
+        {
+            "title": "Tardar Sauce (Grumpy Cat) born",
+            "year": 2012,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/406/325/b31.jpg",
+            "info": "On this day, the snowshoe cat Tardar Sauce was born. Later that year, owner Tabatha Bundesen's brother Bryan would post pictures of Tardar Sauce on Reddit, leading to the Grumpy Cat meme.",
+            "kym": "https://knowyourmeme.com/memes/grumpy-cat"
+        }
+    ],
     "5April": [
         {
             "title": "Nyan Cat uploaded to YouTube",
@@ -165,7 +183,16 @@ var meme_data = {
     "25May": [],
     "26May": [],
     "27May": [],
-    "28May": [],
+    "28May": [
+        {
+            "title": "Harambe killed",
+            "year": 2016,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/200/734/6d5.jpg",
+            "info": "On this day, Harambe the Western lowland gorilla was shot and killed after a 4-year-old child crawled into the gorilla enclosure at Cincinnati Zoo. This spawned a \"Justice for Harambe\" petition, as well as many memes - unfortunately, a portion of these memes were racist in nature.",
+            "kym": "https://knowyourmeme.com/memes/harambe-the-gorilla"
+        }
+    ],
     "29May": [],
     "30May": [],
     "31May": [],
@@ -255,7 +282,16 @@ var meme_data = {
     "23August": [],
     "24August": [],
     "25August": [],
-    "26August": [],
+    "26August": [
+        {
+            "title": "\"Success Kid\" photo taken",
+            "year": 2007,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/185/885/SANDCASTLES.png",
+            "info": "On this day, photographer Laney Griner took this photograph of her child Sammy. Initially, it was typically captioned with \"I Hate Sandcastles\", but later became the basis of the Success Kid meme, which would go on to be used in many adverts as well as by the then-president of the US, Barack Obama. In 2015, the family used this image to help raise awareness of a fundraiser for a kidney transplant for Sammy's father, Justin - they reached their $75,000 goal within days, and the surgery was successful.",
+            "kym": "https://knowyourmeme.com/memes/success-kid-i-hate-sandcastles"
+        }
+    ],
     "27August": [],
     "28August": [],
     "29August": [],

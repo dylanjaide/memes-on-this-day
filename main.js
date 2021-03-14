@@ -95,7 +95,7 @@ function display_result(day, month, meme_json) {
     if (meme_json.image != false) {
         var resultImage = document.getElementById("result-img");
         resultImage.style.display = "block";
-        resultImage.src = "".concat("img/", meme_json.image);
+        resultImage.src = meme_json.image;
     }
     // Info paragraph
     document.getElementById("result-info").innerText = meme_json.info;
