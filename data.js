@@ -116,7 +116,7 @@ var meme_data = {
             "title": "Tardar Sauce (Grumpy Cat) born",
             "year": 2012,
             "youtube": false,
-            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/406/325/b31.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg/800px-Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg",
             "info": "On this day, the snowshoe cat Tardar Sauce was born. Later that year, owner Tabatha Bundesen's brother Bryan would post pictures of Tardar Sauce on Reddit, leading to the Grumpy Cat meme.",
             "kym": "https://knowyourmeme.com/memes/grumpy-cat"
         }
@@ -319,7 +319,16 @@ var meme_data = {
     "20September": [],
     "21September": [],
     "22September": [],
-    "23September": [],
+    "23September": [
+        {
+            "title": "Photos of Tardar Sauce (Grumpy Cat) first posted to Reddit",
+            "year": 2012,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/406/325/b31.jpg",
+            "info": "On this day, Bryan Bundesen first posted pictures of his sister Tabatha's cat, Tardar Sauce, on Reddit's /r/pics subreddit. Almost instantly, huge quantities of memes and photoshops of these images were created, and the format rapidly rose in popularity. This led to Tardar Sauce (now widely known as Grumpy Cat) becoming one of the most recognisable cats in the world.",
+            "kym": "https://knowyourmeme.com/memes/grumpy-cat"
+        }
+    ],
     "24September": [],
     "25September": [],
     "26September": [],
