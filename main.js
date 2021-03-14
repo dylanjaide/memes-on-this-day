@@ -38,7 +38,7 @@ function request_meme(day, month) {
     var data = meme_data[date];
     // If there is no data, display an error and return
     if (data.length < 1) {
-        display_error("Sorry - there are currently no memes in our records for ".concat(day, " ", month, "."));
+        display_error("".concat("Sorry - there are currently no memes in our records for ", day, " ", month, ".\nPlease try searching for another date!"));
         return false;
     }
     // Otherwise, randomly choose one entry to display

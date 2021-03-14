@@ -144,6 +144,13 @@ form input#submitbutton {
 
 
 
+#form-error-message {
+    color: #d00;
+}
+
+
+
+
 
 
 div#result {
