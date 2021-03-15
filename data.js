@@ -1,4 +1,4 @@
-var meme_data = {
+const meme_data = {
     "1January": [],
     "2January": [],
     "3January": [],
