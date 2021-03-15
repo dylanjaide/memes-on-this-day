@@ -16,7 +16,16 @@ var meme_data = {
     "6January": [],
     "7January": [],
     "8January": [],
-    "9January": [],
+    "9January": [
+        {
+            "title": "On Fire comic posted",
+            "year": 2013,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/962/640/658.png",
+            "info": "On this day, KC Green, author of the web comic Gunshow, published this comic, entitled \"On Fire\". Memes using this comic typically use only the first two panels.",
+            "kym": "https://knowyourmeme.com/memes/this-is-fine"
+        }
+    ],
     "10January": [],
     "11January": [
         {
@@ -88,7 +97,16 @@ var meme_data = {
     ],
     "21February": [],
     "22February": [],
-    "23February": [],
+    "23February": [
+        {
+            "title": "Doge photos posted",
+            "year": 2010,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/581/296/c09.jpg",
+            "info": "On this day, kindergarten teacher Atsuko Sato uploaded some pictures of their dog Kabosu, a Shiba Inu, to their personal blog. Despite now commonly being the image associated with the name \"doge\", doge memes had been around for some time before they were first paired with this particular image some time in 2013.",
+            "kym": "https://knowyourmeme.com/memes/doge"
+        }
+    ],
     "24February": [],
     "25February": [
         {
@@ -251,7 +269,7 @@ var meme_data = {
             "year": 2001,
             "youtube": false,
             "image": "https://i.kym-cdn.com/entries/icons/original/000/012/178/shrek.jpg",
-            "info": "On this day, the film Shrek, based on the book by William Steig, was released in the USA. However, the huge online popularity of the character didn't begin until almost a decade later, after the release of the fourth (and, at the time, supposedly final) Shrek film.",
+            "info": "On this day, the DreamWorks film Shrek, based on the book by William Steig, was released in the USA. However, the huge online popularity of the character didn't begin until almost a decade later, after the release of the fourth (and, at the time, supposedly final) Shrek film.",
             "kym": "https://knowyourmeme.com/memes/subcultures/shrek"
         }
     ],
@@ -281,7 +299,16 @@ var meme_data = {
     "2June": [],
     "3June": [],
     "4June": [],
-    "5June": [],
+    "5June": [
+        {
+            "title": "Stonks created",
+            "year": 2017,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/499/826/2f0.png",
+            "info": "On this day, this image was first posted on the Facebook page Special Meme Fresh. It is one of the most notable uses of Meme Man, which was also popularised by this page. The word \"stonks\" has gained in popularity as a result of this meme, now being commonly used to refer to anything related to money, especially when done poorly.",
+            "kym": "https://knowyourmeme.com/memes/stonks"
+        }
+    ],
     "6June": [],
     "7June": [],
     "8June": [],
@@ -349,7 +376,16 @@ var meme_data = {
     "5July": [],
     "6July": [],
     "7July": [],
-    "8July": [],
+    "8July": [
+        {
+            "title": "Bone Hurting Juice created",
+            "year": 2016,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/243/634/963.jpg",
+            "info": "On this day, this meme was posted to the Facebook page Fun Silly Drawings for Fun Silly People. It is an edited version of a comic called Oh Bother, created for the blog Safely Endangered in 2013. It took some time for the Bone Hurting Juice format to start gaining popularity, but by 2019 was very well-known, with the subreddit /r/bonehurtingjuice having well over half a million subscribers.",
+            "kym": "https://knowyourmeme.com/memes/bone-hurting-juice"
+        }
+    ],
     "9July": [],
     "10July": [],
     "11July": [
@@ -380,13 +416,31 @@ var meme_data = {
     "18July": [],
     "19July": [],
     "20July": [],
-    "21July": [],
+    "21July": [
+        {
+            "title": "I'm In Me Mum's Car Vine posted",
+            "year": 2014,
+            "youtube": "LWVTsHNQIiU",
+            "image": false,
+            "info": "On this day, Tish Simmons posted this to Vine. It become popular almost immediately, and spawned a large number of remixes and edited versions. Unfortunately, Simmons also received a significant amount of online harrassment over it, prompting him to announce he would stop making Vines only a day after releasing it.",
+            "kym": "https://knowyourmeme.com/memes/im-in-me-mums-car-broom-broom"
+        }
+    ],
     "22July": [],
     "23July": [],
     "24July": [],
     "25July": [],
     "26July": [],
-    "27July": [],
+    "27July": [
+        {
+            "title": "First appearance of The Skeleton War",
+            "year": 2013,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/176/012/60a.jpg",
+            "info": "On this day, a tweet by Twitter user @dril makes the first mention of The Skeleton War. The following year, users on Tumblr turned this into an annually recurring event during the month of October, for which users post media involving skeletons.",
+            "kym": "https://knowyourmeme.com/memes/events/skeleton-war"
+        }
+    ],
     "28July": [],
     "29July": [],
     "30July": [],
@@ -406,7 +460,16 @@ var meme_data = {
     "13August": [],
     "14August": [],
     "15August": [],
-    "16August": [],
+    "16August": [
+        {
+            "title": "Big Enough uploaded to YouTube",
+            "year": 2017,
+            "youtube": "rvrZJ5C_Nwg?start=126",
+            "image": false,
+            "info": "On this day, the music video for the song Big Enough was uploaded to Kirin J Callinan's VEVO channel on YouTube. This video was particularly notable for a segment in which singer Jimmy Barnes, dressed as a cowboy, sings while placed in the sky over an assortment of American landscapes. This quickly spawned a large number of edited versions, typically featuring characters or scenes from other pieces of media.",
+            "kym": "https://knowyourmeme.com/memes/big-enough"
+        }
+    ],
     "17August": [],
     "18August": [],
     "19August": [],
@@ -520,7 +583,16 @@ var meme_data = {
     "30October": [],
     "31October": [],
     "1November": [],
-    "2November": [],
+    "2November": [
+        {
+            "title": "Bee Movie released",
+            "year": 2007,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/917/330/6eb.jpg",
+            "info": "On this day, the DreamWorks film Bee Movie was released. It took a few years before the movie gained (mostly ironic) popularity in online circles, but it has since been the subject of numerous notable memes. These include copypastas of the full script, the phrase \"ya like jazz?\", and Bee Movie But videos.",
+            "kym": "https://knowyourmeme.com/memes/subcultures/bee-movie"
+        }
+    ],
     "3November": [],
     "4November": [],
     "5November": [],
