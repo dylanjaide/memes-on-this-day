@@ -22,7 +22,7 @@ var meme_data = {
         {
             "title": "Nope.avi uploaded",
             "year": 2010,
-            "youtube": "gvdf5n-zI14k",
+            "youtube": "gvdf5n-zI14",
             "image": false,
             "info": "On this day, YouTube user Jimbomcb uploaded this video of the Engineer from Team Fortress 2, made using Source Film Maker. This video was widely used in the game's community, typically in reaction to other posts or questions, though it has also seen more general use on other sites including Reddit and 4chan.",
             "kym": "https://knowyourmeme.com/memes/nopeavi"
