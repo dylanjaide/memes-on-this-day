@@ -22,4 +22,4 @@ This project was conceived and created by [Dylan Jaide White](https://dylanjai.d
 
 ## License
 
-Memes On This Day is licensed under a GNU AGPLv3 license.
+Memes On This Day is licensed under a [GNU AGPLv3 license](https://github.com/dylanjaide/memes-on-this-day/blob/main/LICENSE.md).
