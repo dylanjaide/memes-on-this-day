@@ -168,7 +168,7 @@ const meme_data = {
             "year": 2009,
             "youtube": "MtN1YnoL46Q",
             "image": false,
-            "info": "On this day, YouTube user forrestfire101 (Forrest Whaley) uploaded this music video for 'The Duck Song'. The song was written by Bryant Oden, who posted it online a couple of months earlier. It rose in popularity over the course of that year, and is one of the most viewed YouTube videos of all time.",
+            "info": "On this day, YouTube user forrestfire101 (Forrest Whaley) uploaded this music video for 'The Duck Song'. The song was written by Bryant Oden, who posted it online a couple of months earlier. It rose in popularity over the course of that year, and remains one of the most well-known YouTube videos of all time.",
             "kym": "https://knowyourmeme.com/memes/the-duck-song"
         }
     ],
