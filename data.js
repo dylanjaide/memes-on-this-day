@@ -22,7 +22,7 @@ const meme_data = {
             "year": 2013,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/962/640/658.png",
-            "info": "On this day, KC Green, author of the web comic Gunshow, published this comic, entitled \"On Fire\". Memes using this comic typically use only the first two panels.",
+            "info": "On this day, KC Green, author of the web comic Gunshow, published this comic, entitled 'On Fire'. Memes using this comic typically use only the first two panels.",
             "kym": "https://knowyourmeme.com/memes/this-is-fine"
         }
     ],
@@ -91,7 +91,7 @@ const meme_data = {
             "year": 2000,
             "youtube": false,
             "image": "https://i.kym-cdn.com/entries/icons/original/000/006/026/NOTSUREIF.jpg",
-            "info": "On this day, the Futurama episode \"The Lesser of Two Evils\" aired for the first time. About a decade later, this still image from the episode would become the basis of a widespread meme format.",
+            "info": "On this day, the Futurama episode 'The Lesser of Two Evils' aired for the first time. About a decade later, this still image from the episode would become the basis of a widespread meme format.",
             "kym": "https://knowyourmeme.com/memes/futurama-fry-not-sure-if"
         }
     ],
@@ -103,7 +103,7 @@ const meme_data = {
             "year": 2010,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/581/296/c09.jpg",
-            "info": "On this day, kindergarten teacher Atsuko Sato uploaded some pictures of their dog Kabosu, a Shiba Inu, to their personal blog. Despite now commonly being the image associated with the name \"doge\", doge memes had been around for some time before they were first paired with this particular image some time in 2013.",
+            "info": "On this day, kindergarten teacher Atsuko Sato uploaded some pictures of their dog Kabosu, a Shiba Inu, to their personal blog. Despite now commonly being the image associated with the name 'doge', doge memes had been around for some time before they were first paired with this particular image some time in 2013.",
             "kym": "https://knowyourmeme.com/memes/doge"
         }
     ],
@@ -130,7 +130,7 @@ const meme_data = {
             "year": 2012,
             "youtube": "o0u4M6vppCI",
             "image": false,
-            "info": "On this day, Rob Cantor, a member of the band Tally Hall, posted a song entitled \"Shia LaBeouf\" to their SoundCloud. The song tells a story in which the listener takes on the role of a person who encounters actor Shia LaBeouf in the woods, who attempts and eat the listener. Two years later, Cantor would upload this video of a performance of the song, at the end of which it is revealed that Shia LaBeouf is the sole audience member.",
+            "info": "On this day, Rob Cantor, a member of the band Tally Hall, posted a song entitled 'Shia LaBeouf' to their SoundCloud. The song tells a story in which the listener takes on the role of a person who encounters actor Shia LaBeouf in the woods, who attempts and eat the listener. Two years later, Cantor would upload this video of a performance of the song, at the end of which it is revealed that Shia LaBeouf is the sole audience member.",
             "kym": "https://knowyourmeme.com/memes/actual-cannibal-shia-labeouf"
         }
     ],
@@ -208,7 +208,7 @@ const meme_data = {
             "year": 2011,
             "youtube": "QH2-TGUlwu4",
             "image": false,
-            "info": "On this day, YouTube user saraj00n combined Chris Torres' Pop-Tart Cat GIF, which had been first uploaded just a few days prior, with the Utauloid Momo Momone's cover of the song \"Nyanyanyanyanyanyanya\".",
+            "info": "On this day, YouTube user saraj00n combined Chris Torres' Pop-Tart Cat GIF, which had been first uploaded just a few days prior, with the Utauloid Momo Momone's cover of the song 'Nyanyanyanyanyanyanya'.",
             "kym": "https://knowyourmeme.com/memes/nyan-cat"
         }
     ],
@@ -269,7 +269,7 @@ const meme_data = {
             "year": 2001,
             "youtube": false,
             "image": "https://i.kym-cdn.com/entries/icons/original/000/012/178/shrek.jpg",
-            "info": "On this day, the DreamWorks film Shrek, based on the book by William Steig, was released in the USA. However, the huge online popularity of the character didn't begin until almost a decade later, after the release of the fourth (and, at the time, supposedly final) Shrek film.",
+            "info": "On this day, the DreamWorks film 'Shrek', based on the book by William Steig, was released in the USA. However, the huge online popularity of the character didn't begin until almost a decade later, after the release of the fourth (and, at the time, supposedly final) Shrek film.",
             "kym": "https://knowyourmeme.com/memes/subcultures/shrek"
         }
     ],
@@ -337,7 +337,7 @@ const meme_data = {
             "year": 2018,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/505/718/136.jpg",
-            "info": "On this day, this image was first posted by Tumblr user deadbefordeath, with the title \"he no like vegetals\". It gained popularity over the next year, notably being used as either a reaction image, or in combination with a still from The Real Housewives of Beverly Hills to form the Woman Yelling at a Cat meme format.",
+            "info": "On this day, this image was first posted by Tumblr user deadbefordeath, with the caption \"he no like vegetals\". It gained popularity over the next year, notably being used as either a reaction image, or in combination with a still from 'The Real Housewives of Beverly Hills' to form the Woman Yelling at a Cat meme format.",
             "kym": "https://knowyourmeme.com/memes/smudge-the-cat"
         },
         {
@@ -345,7 +345,7 @@ const meme_data = {
             "year": 2012,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/997/110/e9f.png",
-            "info": "On this day, this mock-creepypasta first appeared on 4chan. It gained more widespread popularity over the next few years, on YouTube and Tumblr. One notable variation is a parody of \"Mr. Sandman\" by The Chordettes, which features bastardised lyrics including a variation of this phrase.",
+            "info": "On this day, this mock-creepypasta first appeared on 4chan. It gained more widespread popularity over the next few years, on YouTube and Tumblr. One notable variation is a parody of 'Mr. Sandman' by The Chordettes, which features bastardised lyrics including a variation of this phrase.",
             "kym": "https://knowyourmeme.com/memes/man-door-hand-hook-car-door"
         }
     ],
@@ -363,7 +363,7 @@ const meme_data = {
             "year": 2004,
             "youtube": "czTksCF6X8Y",
             "image": false,
-            "info": "On this day, the video game Spider Man 2 was released on PC and consoles. The game itself was generally well-received, although it's best known in many online circles for the music that plays during pizza delivery missions. This music is an arrangement of \"Funiculì, Funiculà\", a Neapolitan song composed by Luigi Denza for the 1880 opening of the first funicular to the summit of Mount Vesuvius. Since the game's release, the Spider Man 2 version has been a popular candidate for remixes, and has also been used to accompany other meme videos.",
+            "info": "On this day, the video game Spider Man 2 was released on PC and consoles. The game itself was generally well-received, although it's best known in many online circles for the music that plays during pizza delivery missions. This music is an arrangement of 'Funiculì, Funiculà', a Neapolitan song composed by Luigi Denza for the 1880 opening of the first funicular to the summit of Mount Vesuvius. Since the game's release, the Spider Man 2 version has been a popular candidate for remixes, and has also been used to accompany other meme videos.",
             "kym": "https://knowyourmeme.com/memes/spider-man-2-pizza-delivery-theme"
         }
     ],
@@ -382,7 +382,7 @@ const meme_data = {
             "year": 2016,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/243/634/963.jpg",
-            "info": "On this day, this meme was posted to the Facebook page Fun Silly Drawings for Fun Silly People. It is an edited version of a comic called Oh Bother, created for the blog Safely Endangered in 2013. It took some time for the Bone Hurting Juice format to start gaining popularity, but by 2019 was very well-known, with the subreddit /r/bonehurtingjuice having well over half a million subscribers.",
+            "info": "On this day, this meme was posted to the Facebook page Fun Silly Drawings for Fun Silly People. It is an edited version of a comic called 'Oh Bother', created for the blog Safely Endangered in 2013. It took some time for the Bone Hurting Juice format to start gaining popularity, but by 2019 was very well-known, with the subreddit /r/bonehurtingjuice having well over half a million subscribers.",
             "kym": "https://knowyourmeme.com/memes/bone-hurting-juice"
         }
     ],
@@ -418,7 +418,7 @@ const meme_data = {
     "20July": [],
     "21July": [
         {
-            "title": "I'm In Me Mum's Car Vine posted",
+            "title": "\"I'm In Me Mum's Car\" Vine posted",
             "year": 2014,
             "youtube": "LWVTsHNQIiU",
             "image": false,
@@ -441,11 +441,11 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/events/skeleton-war"
         },
         {
-            "title": "\"Never Gonna Give You Up\" released",
+            "title": "'Never Gonna Give You Up' released",
             "year": 1987,
             "youtube": "dQw4w9WgXcQ",
             "image": false,
-            "info": "On this day, Rick Astley's debut single \"Never Gonna Give You Up\" was released. It was well-received, topping the charts in many countries around the world. It began to rise in notoriety again roughly two decades later, when 4chan users initiated the trend of Rickrolling (although Erik Helwig claims to have performed the first Rickroll in 2006, as a prank call to a radio station). The practice spread to the rest of the internet during 2007, and it remains one of the most iconic memes of all time.",
+            "info": "On this day, Rick Astley's debut single 'Never Gonna Give You Up' was released. It was well-received, topping the charts in many countries around the world. It began to rise in notoriety again roughly two decades later, when 4chan users initiated the trend of Rickrolling (although Erik Helwig claims to have performed the first Rickroll in 2006, as a prank call to a radio station). The practice spread to the rest of the internet during 2007, and it remains one of the most iconic memes of all time.",
             "kym": "https://knowyourmeme.com/memes/rickroll"
         }
     ],
@@ -470,7 +470,7 @@ const meme_data = {
     "15August": [],
     "16August": [
         {
-            "title": "Big Enough uploaded to YouTube",
+            "title": "'Big Enough' uploaded to YouTube",
             "year": 2017,
             "youtube": "rvrZJ5C_Nwg?start=126",
             "image": false,
@@ -482,11 +482,11 @@ const meme_data = {
     "18August": [],
     "19August": [
         {
-            "title": "Revenge uploaded",
+            "title": "'Revenge' uploaded",
             "year": 2011,
             "youtube": "cPJUBQd-PNM",
             "image": false,
-            "info": "On this day, YouTuber CaptainSparklez uploaded the music video for Revenge, a Minecraft-themed parody of Usher's song \"DJ's got us Falling in Love Again\". CaptainSparklez already had a significant following, so the song was immediately popular. It is one of the most popular and recognisable Minecraft videos of all time. The opening line in particular, \"Creeper, aw man\", is a very widely-used Minecraft meme.",
+            "info": "On this day, YouTuber CaptainSparklez uploaded the music video for Revenge, a Minecraft-themed parody of Usher's song 'DJ's got us Falling in Love Again'. CaptainSparklez already had a significant following, so the song was immediately popular. It is one of the most popular and recognisable Minecraft videos of all time. The opening line in particular, \"Creeper, aw man\", is a very widely-used Minecraft meme.",
             "kym": "https://knowyourmeme.com/memes/captainsparklez-revenge"
         }
     ],
@@ -602,11 +602,11 @@ const meme_data = {
     "1November": [],
     "2November": [
         {
-            "title": "Bee Movie released",
+            "title": "'Bee Movie' released",
             "year": 2007,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/917/330/6eb.jpg",
-            "info": "On this day, the DreamWorks film Bee Movie was released. It took a few years before the movie gained (mostly ironic) popularity in online circles, but it has since been the subject of numerous notable memes. These include copypastas of the full script, the phrase \"ya like jazz?\", and Bee Movie But videos.",
+            "info": "On this day, the DreamWorks film 'Bee Movie' was released. It took a few years before the movie gained (mostly ironic) popularity in online circles, but it has since been the subject of numerous notable memes. These include copypastas of the full script, the phrase \"ya like jazz?\", and Bee Movie But videos.",
             "kym": "https://knowyourmeme.com/memes/subcultures/bee-movie"
         }
     ],
@@ -662,7 +662,7 @@ const meme_data = {
             "year": 2014,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/091/264/665.jpg",
-            "info": "On this day, Tumblr user kidpix2 posted this image with the title \"Wednesday\". A few weeks later, Vine user JimmyHere would adapt it into what is now one of the most well-known Vines ever made.",
+            "info": "On this day, Tumblr user kidpix2 posted this image with the caption \"Wednesday\". A few weeks later, Vine user JimmyHere would adapt it into what is now one of the most well-known Vines ever made.",
             "kym": "https://knowyourmeme.com/memes/it-is-wednesday-my-dudes"
         }
     ],
