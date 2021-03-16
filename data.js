@@ -68,7 +68,16 @@ const meme_data = {
     "31January": [],
     "1February": [],
     "2February": [],
-    "3February": [],
+    "3February": [
+        {
+            "title": "Diggy Diggy Hole created",
+            "year": 2011,
+            "youtube": "IK7hbdLgLOg?start=581",
+            "image": false,
+            "info": "On this day, Yogscast members Lewis and Simon uploaded part 8 of their Minecraft series 'Shadow of Israphel' to YouTube. During this video, Simon improvised this song, inspired by his in-game avatar being a dwarf of Khaz Modan from World of Warcraft. Fans caught onto it, and from the short original clip made both full versions and parodies. The Yogscast would later upload one of these fan-made songs to their YouTube channel, which helped the meme to spread further outside of their community.",
+            "kym": "https://knowyourmeme.com/memes/diggy-diggy-hole"
+        }
+    ],
     "4February": [],
     "5February": [],
     "6February": [],
@@ -153,7 +162,16 @@ const meme_data = {
     "20March": [],
     "21March": [],
     "22March": [],
-    "23March": [],
+    "23March": [
+        {
+            "title": "'The Duck Song' music video uploaded",
+            "year": 2009,
+            "youtube": "MtN1YnoL46Q",
+            "image": false,
+            "info": "On this day, YouTube user forrestfire101 (Forrest Whaley) uploaded this music video for 'The Duck Song'. The song was written by Bryant Oden, who posted it online a couple of months earlier. It rose in popularity over the course of that year, and is one of the most viewed YouTube videos of all time.",
+            "kym": "https://knowyourmeme.com/memes/the-duck-song"
+        }
+    ],
     "24March": [],
     "25March": [],
     "26March": [],
@@ -228,7 +246,16 @@ const meme_data = {
     "19April": [],
     "20April": [],
     "21April": [],
-    "22April": [],
+    "22April": [
+        {
+            "title": "'Chocolate Rain' uploaded",
+            "year": 2007,
+            "youtube": "EwTZ2xpQwpA",
+            "image": false,
+            "info": "On this day, Tay Zonday uploaded this song to their YouTube channel. It gained widespread attention a few months later after being featured prominently on the YouTube homepage and shared widely on 4chan. The phrase \"I move away from the mic to breathe in\" was particularly popular. Many people have interpreted the song as a joke, or called the lyrics \"strange\" or \"cheesy\", although in reality it describes experiences of systemic racism.",
+            "kym": "https://knowyourmeme.com/memes/chocolate-rain"
+        }
+    ],
     "23April": [],
     "24April": [],
     "25April": [],
