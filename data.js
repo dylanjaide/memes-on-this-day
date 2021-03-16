@@ -439,6 +439,14 @@ const meme_data = {
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/176/012/60a.jpg",
             "info": "On this day, a tweet by Twitter user @dril makes the first mention of The Skeleton War. The following year, users on Tumblr turned this into an annually recurring event during the month of October, for which users post media involving skeletons.",
             "kym": "https://knowyourmeme.com/memes/events/skeleton-war"
+        },
+        {
+            "title": "\"Never Gonna Give You Up\" released",
+            "year": 1987,
+            "youtube": "dQw4w9WgXcQ",
+            "image": false,
+            "info": "On this day, Rick Astley's debut single \"Never Gonna Give You Up\" was released. It was well-received, topping the charts in many countries around the world. It began to rise in notoriety again roughly two decades later, when 4chan users initiated the trend of Rickrolling (although Erik Helwig claims to have performed the first Rickroll in 2006, as a prank call to a radio station). The practice spread to the rest of the internet during 2007, and it remains one of the most iconic memes of all time.",
+            "kym": "https://knowyourmeme.com/memes/rickroll"
         }
     ],
     "28July": [],
@@ -472,7 +480,16 @@ const meme_data = {
     ],
     "17August": [],
     "18August": [],
-    "19August": [],
+    "19August": [
+        {
+            "title": "Revenge uploaded",
+            "year": 2011,
+            "youtube": "cPJUBQd-PNM",
+            "image": false,
+            "info": "On this day, YouTuber CaptainSparklez uploaded the music video for Revenge, a Minecraft-themed parody of Usher's song \"DJ's got us Falling in Love Again\". CaptainSparklez already had a significant following, so the song was immediately popular. It is one of the most popular and recognisable Minecraft videos of all time. The opening line in particular, \"Creeper, aw man\", is a very widely-used Minecraft meme.",
+            "kym": "https://knowyourmeme.com/memes/captainsparklez-revenge"
+        }
+    ],
     "20August": [],
     "21August": [],
     "22August": [],
