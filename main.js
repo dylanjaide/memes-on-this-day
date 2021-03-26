@@ -28,13 +28,13 @@ $( document ).ready(function() {
         });
     }
     
-    // Otherwise, request a meme from the current date
+    // Otherwise, search for a meme from the current date
     if (!meme_displayed_on_load) {
         var d = new Date();
         var months_list = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
         var day = d.getDate().toString();
         var month = months_list[d.getMonth()];
-        request_meme(day, month);
+        search_meme(day, month);
         set_input_form_values(day, month);
     }
     
