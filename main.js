@@ -4,7 +4,7 @@ $( document ).ready(function() {
         e.preventDefault();
         day = document.getElementById("days").value;
         month = document.getElementById("months").value;
-        request_meme(day, month);
+        search_meme(day, month);
     });
     
     // On page load, select a meme to display automatically
@@ -19,7 +19,7 @@ $( document ).ready(function() {
                 // If a meme with that ID exists, display it
                 if (meme_data[key_date][i]["id"] == url_vars["meme"]) {
                     var day_month = key_date_to_day_month(key_date);
-                    request_meme(day_month[0], day_month[1]);
+                    display_meme(day_month[0], day_month[1], meme_data[key_date][i]);
                     set_input_form_values(day_month[0], day_month[1]);
                     meme_displayed_on_load = true;
                     break;
@@ -69,7 +69,7 @@ function set_input_form_values(day, month) {
 
 
 
-function request_meme(day, month) {
+function search_meme(day, month) {
     // Get day/month from form
     var date = day.concat(month);
     
@@ -96,7 +96,7 @@ function request_meme(day, month) {
     }
     // Otherwise, randomly choose one entry to display
     var index = Math.floor(Math.random() * data.length);
-    display_result(day, month, data[index]);
+    display_meme(day, month, data[index]);
     return true;
 }
 
@@ -141,7 +141,7 @@ function display_error(error) {
 
 
 
-function display_result(day, month, meme_json) {
+function display_meme(day, month, meme_json) {
     clear_display();
     document.getElementById("result").style.display = "block";
     
