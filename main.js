@@ -7,12 +7,65 @@ $( document ).ready(function() {
         request_meme(day, month);
     });
     
-    // On page load: request a meme from the current date
-    var d = new Date();
-    var months_list = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-    request_meme(d.getDate().toString(), months_list[d.getMonth()]);
+    // On page load, select a meme to display automatically
+    var meme_displayed_on_load = false;
+    
+    // First, check the url for a direct link
+    var url_vars = get_url_vars();
+    if (url_vars.hasOwnProperty("meme")) {
+        // Loop over all memes in the database
+        Object.keys(meme_data).forEach(function(key_date) {
+            for (var i = 0; i < meme_data[key_date].length; i++) {
+                // If a meme with that ID exists, display it
+                if (meme_data[key_date][i]["id"] == url_vars["meme"]) {
+                    var day_month = key_date_to_day_month(key_date);
+                    request_meme(day_month[0], day_month[1]);
+                    set_input_form_values(day_month[0], day_month[1]);
+                    meme_displayed_on_load = true;
+                    break;
+                }
+            }
+        });
+    }
+    
+    // Otherwise, request a meme from the current date
+    if (!meme_displayed_on_load) {
+        var d = new Date();
+        var months_list = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+        var day = d.getDate().toString();
+        var month = months_list[d.getMonth()];
+        request_meme(day, month);
+        set_input_form_values(day, month);
+    }
     
 });
+
+
+
+
+function get_url_vars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+            vars[key] = value;
+        });
+    return vars;
+}
+
+
+
+
+function key_date_to_day_month(key_date) {
+    return key_date.match(/[a-zA-Z]+|[0-9]+/g);
+}
+
+
+
+
+function set_input_form_values(day, month) {
+    document.getElementById("days").value = day;
+    document.getElementById("months").value = month;
+}
+
 
 
 
@@ -70,6 +123,9 @@ function clear_display() {
     var resultKymLink = document.getElementById("result-kymlink");
     resultKymLink.href = "";
     resultKymLink.innerText = "";
+    var resultDirectLink = document.getElementById("result-directlink");
+    resultDirectLink.href = "";
+    resultDirectLink.innerText = "";
 }
 
 
@@ -112,5 +168,9 @@ function display_result(day, month, meme_json) {
         resultKymLink.href = meme_json.kym;
         resultKymLink.innerText = "See more on KnowYourMeme";
     }
+    // Direct link
+    var resultDirectLink = document.getElementById("result-directlink");
+    resultDirectLink.href = "".concat("https://dylanjai.de/memes-on-this-day/?meme=", meme_json.id);
+    resultDirectLink.innerText = "Share this meme";
     
 }
