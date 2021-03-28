@@ -193,7 +193,7 @@ const meme_data = {
             "year": 2008,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/109/415/tumblr_lg46betBTg1qzptwgo1_500.jpg",
-            "info": "On this day, an anonymous 4chan user posted this mock-creepypasta on /x/, the paranormal board. The closing sentence, \"THEN WHO WAS PHONE?\", became a catchphrase of sorts, and spread to other websites including Yahoo Answers.",
+            "info": "On this day, an anonymous 4chan user posted this mock-creepypasta on /x/, the paranormal board. The closing sentence, \"THEN WHO WAS PHONE?\", gained particular notoriety, and spread to other websites including Yahoo Answers.",
             "kym": "https://knowyourmeme.com/memes/then-who-was-phone"
         }
     ],
@@ -513,7 +513,17 @@ const meme_data = {
     "1August": [],
     "2August": [],
     "3August": [],
-    "4August": [],
+    "4August": [
+        {
+            "id": "30-50-feral-hogs",
+            "title": "\"30-50 feral hogs\" Tweet posted",
+            "year": 2019,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/529/507/d9c.jpg",
+            "info": "On this day, Twitter user @WillieMcNabb Tweeted this, in response to musician Jason Isbell speaking out against ownership of assault weapons in the US in the wake of mass shootings in Dayton, Ohio and El Paso, Texas. The invocation of this absurd situation as a justification for gun ownership led to it being widely satirised and mocked by other users.",
+            "kym": "https://knowyourmeme.com/memes/30-50-feral-hogs"
+        }
+    ],
     "5August": [],
     "6August": [],
     "7August": [],
@@ -532,7 +542,7 @@ const meme_data = {
             "year": 2017,
             "youtube": "rvrZJ5C_Nwg?start=126",
             "image": false,
-            "info": "On this day, the music video for the song Big Enough was uploaded to Kirin J Callinan's VEVO channel on YouTube. This video was particularly notable for a segment in which singer Jimmy Barnes, dressed as a cowboy, sings while placed in the sky over an assortment of American landscapes. This quickly spawned a large number of edited versions, typically featuring characters or scenes from other pieces of media.",
+            "info": "On this day, the music video for the song 'Big Enough' was uploaded to Kirin J Callinan's VEVO channel on YouTube. This video was particularly notable for a segment in which singer Jimmy Barnes, dressed as a cowboy, sings while placed in the sky over an assortment of American landscapes. This quickly spawned a large number of edited versions, typically featuring characters or scenes from other pieces of media.",
             "kym": "https://knowyourmeme.com/memes/big-enough"
         }
     ],
@@ -647,7 +657,17 @@ const meme_data = {
     "14October": [],
     "15October": [],
     "16October": [],
-    "17October": [],
+    "17October": [
+        {
+            "id": "your-cousin-throckmorton",
+            "title": "\"Your cousin Throckmorton\" posted to Twitter",
+            "year": 2017,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/628/968/b98.jpg",
+            "info": "On this day, Twitter user @ChibsArts posted this photo of an example question from the textbook 'University Physics' by Young and Freedman. Shortly after, this was posted to Tumblr, where it spread widely, particularly in several skateboarding-related posts.\n\nRoger Freedman, one of the authors, has stated on Twitter that the name Throckmorton was added by co-author Hugh Young as a reference to the radio show 'The Great Gildersleeve'. \"Throcky\" was included in at least the 8th edition of the textbook, which was published in 1992 - 25 years before @ChibsArts' Tweet.",
+            "kym": "https://knowyourmeme.com/memes/cousin-throckmorton/"
+        }
+    ],
     "18October": [],
     "19October": [],
     "20October": [],
@@ -705,7 +725,7 @@ const meme_data = {
             "year": 2016,
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/195/668/4ac.png",
-            "info": "On this day, Tumblr user loghains posted this. In it, they say that they dreamt of a new meme format, in which pictures of fat cats are captioned with \"bode\" (short for bodacious). Within a few days, other Tumblr users had started to create memes using this format, and it became a popular format on the site.",
+            "info": "On this day, Tumblr user loghains posted this, in which they describe a new meme format that they witnessed in a dream, consisting of captioning pictures of fat cats with \"bode\". Within a few days, other Tumblr users had started to create memes using this format, and it became a popular trend on the site.",
             "kym": "https://knowyourmeme.com/memes/bode"
         }
     ],
