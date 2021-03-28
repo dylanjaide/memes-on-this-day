@@ -649,15 +649,7 @@ const meme_data = {
             "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Hltob-win-cover.jpg",
             "info": "On this day, Valve published a compilation of games, of which 3 were new releases: Half Life 2: Episode Two, Portal, and Team Fortress 2. Each of these franchises have their own assortments of popular memes, although some notable ones include \"Half Life 3 Confirmed\", \"The Cake is a Lie\", and Nope.avi.",
             "kym": "https://knowyourmeme.com/memes/subcultures/valve"
-        }
-    ],
-    "11October": [],
-    "12October": [],
-    "13October": [],
-    "14October": [],
-    "15October": [],
-    "16October": [],
-    "17October": [
+        },
         {
             "id": "your-cousin-throckmorton",
             "title": "\"Your cousin Throckmorton\" posted to Twitter",
@@ -668,6 +660,13 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/cousin-throckmorton/"
         }
     ],
+    "11October": [],
+    "12October": [],
+    "13October": [],
+    "14October": [],
+    "15October": [],
+    "16October": [],
+    "17October": [],
     "18October": [],
     "19October": [],
     "20October": [],
