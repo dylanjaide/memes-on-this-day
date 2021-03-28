@@ -75,6 +75,18 @@ function set_input_form_values(day, month) {
 
 
 
+// Counts the number of memes currently in the database
+function get_number_memes() {
+    var count = 0;
+    for (d in meme_data) {
+        count += meme_data[d].length;
+    }
+    return count
+}
+
+
+
+
 // Check for a meme on a specified day/month
 // If one exists in the database, display it
 // Otherwise, display an appropriate error message
