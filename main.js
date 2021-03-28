@@ -1,11 +1,13 @@
 $( document ).ready(function() {
     
+    // Define button behaviour: search for a meme using the day/month from the form
     document.getElementById("submitbutton").addEventListener('click', function(e) {
         e.preventDefault();
         day = document.getElementById("days").value;
         month = document.getElementById("months").value;
         search_meme(day, month);
     });
+    
     
     // On page load, select a meme to display automatically
     var meme_displayed_on_load = false;
@@ -43,6 +45,7 @@ $( document ).ready(function() {
 
 
 
+// Return a dictionary of variables defined by appending to the page url in the address bar
 function get_url_vars() {
     var vars = {};
     var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
@@ -54,6 +57,8 @@ function get_url_vars() {
 
 
 
+// Return a list separating the day and month from a key_date string
+// eg. "30June" -> ["30", "June"]
 function key_date_to_day_month(key_date) {
     return key_date.match(/[a-zA-Z]+|[0-9]+/g);
 }
@@ -61,6 +66,7 @@ function key_date_to_day_month(key_date) {
 
 
 
+// Set the values in the input form <select> tags
 function set_input_form_values(day, month) {
     document.getElementById("days").value = day;
     document.getElementById("months").value = month;
@@ -69,6 +75,9 @@ function set_input_form_values(day, month) {
 
 
 
+// Check for a meme on a specified day/month
+// If one exists in the database, display it
+// Otherwise, display an appropriate error message
 function search_meme(day, month) {
     // Get day/month from form
     var date = day.concat(month);
@@ -103,6 +112,7 @@ function search_meme(day, month) {
 
 
 
+// Clear all elements that contain error messages or things relating to a meme
 function clear_display() {
     // Clear error message
     var formErrorMessage = document.getElementById("form-error-message");
@@ -131,6 +141,7 @@ function clear_display() {
 
 
 
+// Clears the display, then shows the passed error message
 function display_error(error) {
     clear_display();
     var formErrorMessage = document.getElementById("form-error-message");
@@ -141,6 +152,7 @@ function display_error(error) {
 
 
 
+// Clears the display, then shows the specified meme (using passed date & JSON data)
 function display_meme(day, month, meme_json) {
     clear_display();
     document.getElementById("result").style.display = "block";
