@@ -210,7 +210,17 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/sanic-hegehog"
         }
     ],
-    "1April": [],
+    "1April": [
+        {
+            "id": "mishapocalypse",
+            "title": "The first Mishapocalypse occurs",
+            "year": 2013,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/522/724/e9c.png",
+            "info": "On this day, Tumblr users changed their profile pictures en masse to the same photo of Misha Collins. This idea had been proposed about a month prior by user lokisleathersuit. Hundreds of users joined in, eventually even spreading the trend to other social media platforms including Twitter. The notoriety of the Mishapocalypse led to it becoming an annual event on Tumblr.",
+            "kym": "https://knowyourmeme.com/memes/events/mishapocalypse"
+        }
+    ],
     "2April": [
         {
             "id": "pop-tart-cat-gif",
