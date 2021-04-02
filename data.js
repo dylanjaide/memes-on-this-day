@@ -16,7 +16,17 @@ const meme_data = {
     "5January": [],
     "6January": [],
     "7January": [],
-    "8January": [],
+    "8January": [
+        {
+            "id": "gengar-cushion",
+            "title": "Gengar cushion pre-orders open",
+            "year": 2021,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/original/001/985/581/8cf.png",
+            "info": "On this day, Premium Bandai opened pre-orders for this cushion, featuring the Pokémon Gengar with a roughly six-foot long tongue for a built-in blanket. The design itself proved immensely popular, but so did the set of demonstration images, which featured an individual wearing a suit using the cushion in a series of unorthodox ways. Pre-orders of the cushions sold out within two hours.",
+            "kym": "https://knowyourmeme.com/memes/gengar-cushion"
+        }
+    ],
     "9January": [
         {
             "id": "this-is-fine-dog",
@@ -152,7 +162,17 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/actual-cannibal-shia-labeouf"
         }
     ],
-    "4March": [],
+    "4March": [
+        {
+            "id": "the-wiggles-tame-impala",
+            "title": "The Wiggles cover 'Elephant' by Tame Impala",
+            "year": 2021,
+            "youtube": "a13WnqsRc5g",
+            "image": false,
+            "info": "On this day, Australian broadcaster triple j uploaded this video to their YouTube channel. It was part of a regular segment called Like a Version, in which bands are invited to perform both an original song and a cover song. The choice for The Wiggles, a band aimed towards children, to cover a song by Tame Impala was unexpected for many listeners. Despite this, many were surprised by the quality of the cover, and the video quickly spread, gaining over 1 million views within days.",
+            "kym": "https://knowyourmeme.com/memes/the-wiggles-tame-impala-cover"
+        }
+    ],
     "5March": [],
     "6March": [],
     "7March": [],
@@ -476,7 +496,17 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/burger-king-foot-lettuce"
         }
     ],
-    "17July": [],
+    "17July": [
+        {
+            "id": "inhaling-seagull",
+            "title": "Inhaling seagull video posted",
+            "year": 2012,
+            "youtube": "y4aLXw7WwDM",
+            "image": false,
+            "info": "On this day, YouTube user Dimaniztlt uploaded this video. While it had some spread in the following few years, it only gained significant popularity more than five years later, when Twitter user @dioyasu used two stills from the video to make the Inhaling Seagull meme format. In 2019, another screenshot from this video was used by Reddit user /u/Energizer357 to create the Shut Seagull image.",
+            "kym": "https://knowyourmeme.com/memes/inhaling-seagull"
+        }
+    ],
     "18July": [],
     "19July": [],
     "20July": [],
@@ -677,7 +707,17 @@ const meme_data = {
     "15October": [],
     "16October": [],
     "17October": [],
-    "18October": [],
+    "18October": [
+        {
+            "id": "valid-to-eat-fingers",
+            "title": "\"Valid to eat fingers\" posted",
+            "year": 2017,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/002/055/119/a5f.png",
+            "info": "On this day, Tumblr user dimetrome posted this as a response to a post originally made by user luxtempestas. The phrase \"valid to eat fingers\" became quite popular on the site, being used primarily with pictures of horses and other equines.",
+            "kym": "https://knowyourmeme.com/memes/valid-to-eat-fingers"
+        }
+    ],
     "19October": [],
     "20October": [],
     "21October": [],
