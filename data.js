@@ -16,17 +16,7 @@ const meme_data = {
     "5January": [],
     "6January": [],
     "7January": [],
-    "8January": [
-        {
-            "id": "gengar-cushion",
-            "title": "Gengar cushion pre-orders open",
-            "year": 2021,
-            "youtube": false,
-            "image": "https://i.kym-cdn.com/photos/images/original/001/985/581/8cf.png",
-            "info": "On this day, Premium Bandai opened pre-orders for this cushion, featuring the Pokémon Gengar with a roughly six-foot long tongue for a built-in blanket. The design itself proved immensely popular, but so did the set of demonstration images, which featured an individual wearing a suit using the cushion in a series of unorthodox ways. Pre-orders of the cushions sold out within two hours.",
-            "kym": "https://knowyourmeme.com/memes/gengar-cushion"
-        }
-    ],
+    "8January": [],
     "9January": [
         {
             "id": "this-is-fine-dog",
