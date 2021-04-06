@@ -85,7 +85,17 @@ const meme_data = {
     ],
     "4February": [],
     "5February": [],
-    "6February": [],
+    "6February": [
+        {
+            "id": "stop-i-couldve-dropped-my-croissant",
+            "title": "\"I Could've Dropped My Croissant\" Vine posted",
+            "year": 2014,
+            "youtube": "ZzWqfJFxC0w",
+            "image": false,
+            "info": "On this day, Vine user @terryjr12 uploaded this video. It is one of the most well-known Vines ever created, having gained nearly 7 million loops before the platform was closed down in 2016.",
+            "kym": "https://knowyourmeme.com/memes/i-couldve-dropped-my-croissant"
+        }
+    ],
     "7February": [],
     "8February": [],
     "9February": [],
@@ -297,7 +307,17 @@ const meme_data = {
     "25April": [],
     "26April": [],
     "27April": [],
-    "28April": [],
+    "28April": [
+        {
+            "id": "ed-balls",
+            "title": "\"Ed Balls\" Tweet posted",
+            "year": 2011,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/112/259/010.png",
+            "info": "On this day, English politician Ed Balls posted a Tweet that read simply \"Ed Balls\". Balls had intended to search Twitter, but instead entered the phrase into the wrong text field and sent it by mistake. The anniversary of this Tweet has come to be known as Ed Balls Day. After a few years, Balls started to join in with the Ed Balls Day celebrations, even baking a cake for the fifth anniversary in 2016.",
+            "kym": "https://knowyourmeme.com/memes/ed-balls"
+        }
+    ],
     "29April": [],
     "30April": [],
     "1May": [],
@@ -495,6 +515,15 @@ const meme_data = {
             "image": false,
             "info": "On this day, YouTube user Dimaniztlt uploaded this video. While it had some spread in the following few years, it only gained significant popularity more than five years later, when Twitter user @dioyasu used two stills from the video to make the Inhaling Seagull meme format. In 2019, another screenshot from this video was used by Reddit user /u/Energizer357 to create the Shut Seagull image.",
             "kym": "https://knowyourmeme.com/memes/inhaling-seagull"
+        },
+        {
+            "id": "im-just-chillin-in-cedar-rapids",
+            "title": "\"I'm just chillin' in Cedar Rapids\" Snapchat posted",
+            "year": 2015,
+            "youtube": "vbcc8x7j1Lg",
+            "image": false,
+            "info": "On this day, this was posted to Hillary Clinton's Snapchat account as part of a Democratic Party dinner event in Cedar Rapids, Iowa. Snapchat was creating a Live Story for this event, and all of the presidential candidates were asked to submit a Snap. The following day, Vine user its moi reposted the video with the caption \"I love politics\", where it quickly became widely popular. By the time Vine shut down in 2016, the video had over 34 million loops, making it one of the most-watched Vines of all time.",
+            "kym": false
         }
     ],
     "18July": [],
@@ -612,7 +641,17 @@ const meme_data = {
     "30August": [],
     "31August": [],
     "1September": [],
-    "2September": [],
+    "2September": [
+        {
+            "id": "you-know-i-had-to-do-it-to-em",
+            "title": "\"You know I had to do it to em\" posted",
+            "year": 2014,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/204/482/14c.jpg",
+            "info": "On this day, Twitter user @LuckyLuciano17k posted this Tweet. However, it remained in obscurity until nearly two years later, when memes using the image and caption began to take off. By 2018, it was so popular that multiple people travelled to the location in Tampa, Florida where the photo had been taken in order to recreate it themselves.",
+            "kym": "https://knowyourmeme.com/memes/you-know-i-had-to-do-it-to-em"
+        }
+    ],
     "3September": [],
     "4September": [],
     "5September": [],
@@ -623,7 +662,17 @@ const meme_data = {
     "10September": [],
     "11September": [],
     "12September": [],
-    "13September": [],
+    "13September": [
+        {
+            "id": "we-should-improve-society-somewhat",
+            "title": "\"We Should Improve Society Somewhat\" comic posted",
+            "year": 2016,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/259/257/342.png",
+            "info": "On this day, Matt Bors uploaded this comic titles 'Mister Gotcha' to The Nib. The central theme, a criticism of people who dismiss the idea of improving society by diverting to claims of hypocrisy when the people suggesting the improvements happen to benefit from the injustice in some way, has resonated with many. The last panel is particularly popular, and is often isolated and edited to reflect the current political climate.",
+            "kym": "https://knowyourmeme.com/memes/we-should-improve-society-somewhat"
+        }
+    ],
     "14September": [],
     "15September": [
         {
