@@ -58,7 +58,17 @@ const meme_data = {
     "17January": [],
     "18January": [],
     "19January": [],
-    "20January": [],
+    "20January": [
+        {
+            "id": "bernie-sanders-mittens",
+            "title": "Bernie Sanders wearing mittens sitting in a chair picture taken",
+            "year": 2021,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/entries/icons/original/000/036/345/EsMANJkW4AYbmvv.jpeg",
+            "info": "On this day, this photo of US senator Bernie Sanders was taken at the inaugration of President Joe Biden by photographer Brendan Smialowski. It gained particular notoriety for the mittens, which were made by Jen Ellis, a teacher from Sanders' home state of Vermont. Most memes made using this image involved placing the image of Sanders sitting into other images.",
+            "kym": "https://knowyourmeme.com/memes/bernie-sanders-wearing-mittens-sitting-in-a-chair"
+        }
+    ],
     "21January": [],
     "22January": [],
     "23January": [],
@@ -345,7 +355,17 @@ const meme_data = {
     "13May": [],
     "14May": [],
     "15May": [],
-    "16May": [],
+    "16May": [
+        {
+            "id": "bielefeld-verschwoerung",
+            "title": "The Bielefeld Conspiracy first posted online",
+            "year": 1994,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/072/796/379113084-bielefeld-verschwoerung-verfilmt.jpg",
+            "info": "On this day, the idea that the German town of Bielefeld did not actually exist was posted to a Usenet newsgroup by Achim Held. Over the course of several years, the joke made its way into German popular culture. It has been referenced by German public figures including Angela Merkel, as well as by the city itself.",
+            "kym": "https://knowyourmeme.com/memes/the-bielefeld-conspiracy"
+        }
+    ],
     "17May": [],
     "18May": [
         {
@@ -376,6 +396,15 @@ const meme_data = {
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/200/734/6d5.jpg",
             "info": "On this day, Harambe the Western lowland gorilla was shot and killed after a 4-year-old child crawled into the gorilla enclosure at Cincinnati Zoo. This spawned a Justice for Harambe petition, as well as many memes - unfortunately, a portion of these memes were racist in nature.",
             "kym": "https://knowyourmeme.com/memes/harambe-the-gorilla"
+        },
+        {
+            "id": "get-stick-bugged-lol",
+            "title": "'Get Stick Bugged lol' original video uploaded",
+            "year": 2014,
+            "youtube": "fC7oUOUEEi4",
+            "image": false,
+            "info": "On this day, a video of a swaying stick bug was posted by Twitter user @Yone_R6. A few days later, others started to add music to the video. However, it wasn't until 2020 that the most widely-used form of the meme was created, when the caption \"Get Stick Bugged lol\" and music (which is from the Roblox game Bee Swarm Simulator) were added. The video is usually used in a similar manner to a Rickroll.",
+            "kym": "https://knowyourmeme.com/memes/get-stick-bugged-lol"
         }
     ],
     "29May": [],
@@ -417,7 +446,17 @@ const meme_data = {
     "14June": [],
     "15June": [],
     "16June": [],
-    "17June": [],
+    "17June": [
+        {
+            "id": "baby-shark",
+            "title": "'Baby Shark' uploaded",
+            "year": 2014,
+            "youtube": "XqZsoesa55w",
+            "image": false,
+            "info": "On this day, this music video was uploaded to the YouTube channel PinkFong. About a year later, the trend of of people doing the dance became popular in Indonesia under the hashtag #BabySharkChallenge. From there, it began to spread to other communities, eventually even making it onto the Billboard Hot 100 in early 2019.",
+            "kym": "https://knowyourmeme.com/memes/baby-shark"
+        }
+    ],
     "18June": [],
     "19June": [
         {
@@ -478,7 +517,17 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/bone-hurting-juice"
         }
     ],
-    "9July": [],
+    "9July": [
+        {
+            "id": "he-scream-at-own-ass",
+            "title": "\"He Scream At Own Ass\" picture posted",
+            "year": 2014,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/002/022/958/7ba.png",
+            "info": "On this day, Tumblr user yungterra posted this image of an opossum, along with a comment from user yunghau5. The image has been used in a variety of different memes, primarily as references to the original with some (modified) version of yunghau5's comment, but also as a reaction image.",
+            "kym": "https://knowyourmeme.com/memes/he-scream-at-own-ass"
+        }
+    ],
     "10July": [],
     "11July": [
         {
@@ -780,6 +829,15 @@ const meme_data = {
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/917/330/6eb.jpg",
             "info": "On this day, the DreamWorks film 'Bee Movie' was released. It took a few years before the movie gained (mostly ironic) popularity in online circles, but it has since been the subject of numerous notable memes. These include copypastas of the full script, the phrase \"ya like jazz?\", and Bee Movie But videos.",
             "kym": "https://knowyourmeme.com/memes/subcultures/bee-movie"
+        },
+        {
+            "id": "distracted-boyfriend",
+            "title": "Distracted Boyfriend stock image uploaded",
+            "year": 2015,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/entries/icons/original/000/023/732/damngina.jpg",
+            "info": "On this day, this photo taken by Antonio Guillem was uploaded to iStock. It took over a year before captions were first added to the three people in the picture. From there, the format took off, primarily on Reddit and Twitter. In 2018, it was described by Slate as being one of the most influential memes in the development and popularity of 'object labelling' formats.",
+            "kym": "https://knowyourmeme.com/memes/distracted-boyfriend"
         }
     ],
     "3November": [],
