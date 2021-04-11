@@ -9,6 +9,25 @@ $( document ).ready(function() {
     });
     
     
+    // Define behaviour for display "About this page" modal
+    var modal = document.getElementById("aboutbox");
+    document.getElementById("aboutlink").addEventListener("click", function(e) {
+        modal.style.display = "block";
+    });
+    
+    // Close modal when clicking close button
+    document.getElementsByClassName("modal-close")[0].addEventListener("click", function(e) {
+        modal.style.display = "none";
+    });
+    
+    // Close modal when clicking outside of content box
+    window.addEventListener("click", function(e) {
+        if (e.target == modal) {
+            modal.style.display = "none";
+        }
+    });
+    
+    
     // On page load, select a meme to display automatically
     var meme_displayed_on_load = false;
     
