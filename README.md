@@ -14,7 +14,7 @@ The primary features and layout of the site are currently largely complete. The 
 
 ## Contributing
 
-Contributions are currently being accepted, with a focus on additions to the [database](https://github.com/dylanjaide/memes-on-this-day/blob/main/data.js).
+Contributions are currently being accepted, with a focus on additions to the [database](https://github.com/dylanjaide/memes-on-this-day/blob/main/data.js). Please take a read through the [contributing guidelines](https://github.com/dylanjaide/memes-on-this-day/blob/main/CONTRIBUTING.md) first.
 
 ## Authors and acknowledgements
 
