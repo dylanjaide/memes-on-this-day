@@ -292,7 +292,17 @@ const meme_data = {
     "10April": [],
     "11April": [],
     "12April": [],
-    "13April": [],
+    "13April": [
+        {
+            "id": "neil-banging-out-the-tunes",
+            "title": "Neil banging out the tunes",
+            "year": 2006,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/482/051/36f.jpg",
+            "info": "On this day, Neil banged out the tunes. This picture, including its caption, was posted to Tumblr at some point during or before 2014. From 2016 onwards, Tumblr users began to celebrate its anniversary by reblogging the original image, memes involving it, and even fan art of Neil.",
+            "kym": "https://knowyourmeme.com/memes/neil-banging-out-the-tunes"
+        }
+    ],
     "14April": [],
     "15April": [],
     "16April": [],
