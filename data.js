@@ -600,7 +600,17 @@ const meme_data = {
         }
     ],
     "22July": [],
-    "23July": [],
+    "23July": [
+        {
+            "id": "im-thinking-about-thos-beans",
+            "title": "\"I;m thinking about thos Beans\" posted",
+            "year": 2015,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/031/519/640.png",
+            "info": "On this day, Bill Foster, a former reporter from Waco, Texas, posted this message on the Facebook profile of Bush's Baked Beans. It spread widely after being posted to the subreddit /r/oldpeoplefacebook, and later to Imgur. Following these, hundreds of other Facebook users posted the same message to Bush's Baked Beans profile.",
+            "kym": "https://knowyourmeme.com/memes/im-thinking-about-thos-beans"
+        }
+    ],
     "24July": [],
     "25July": [],
     "26July": [],
@@ -827,7 +837,17 @@ const meme_data = {
     "27October": [],
     "28October": [],
     "29October": [],
-    "30October": [],
+    "30October": [
+        {
+            "id": "the-end-of-the-world",
+            "title": "'The End of the World' uploaded",
+            "year": 2003,
+            "youtube": "kCpjgl2baLs",
+            "image": false,
+            "info": "On this day, animator Jason Windsor uploaded this Flash animation to Albino Blacksheep. It quickly went viral, and in fact is considered to be among the very first viral videos, with many lines from the video being widely quoted elsewhere online. In 2018, Windsor uploaded a sequel to YouTube, reflecting on changes in the political climate in the intervening 15 years.",
+            "kym": "https://knowyourmeme.com/memes/the-end-of-the-world"
+        }
+    ],
     "31October": [],
     "1November": [],
     "2November": [
@@ -857,7 +877,17 @@ const meme_data = {
     "7November": [],
     "8November": [],
     "9November": [],
-    "10November": [],
+    "10November": [
+        {
+            "id": "long-egg",
+            "title": "'Long Egg Production' uploaded to YouTube",
+            "year": 2013,
+            "youtube": "ZYz2DLN9uik",
+            "image": false,
+            "info": "On this day, Laura Yuile uploaded this video to YouTube. It is a segment from a German TV show explaining the production of 'Long Eggs', which are a product of Danish origin. The video is notable for the clip near the start which depicts a chicken appearing to lay a long egg. It also inspired a number of other memes during the following years, the most well-known of which was a surreal meme with the caption \"it takes an awfully long chicken to make a Long Egg.\".",
+            "kym": "https://knowyourmeme.com/memes/the-end-of-the-world"
+        }
+    ],
     "11November": [],
     "12November": [],
     "13November": [],
