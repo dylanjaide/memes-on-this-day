@@ -28,6 +28,12 @@ $( document ).ready(function() {
     });
     
     
+    // On page load, fill the about modal with the number of days that have memes
+    var num_days_with_memes = get_number_days_with_memes();
+    document.getElementById("number-days-with-memes").innerText = num_days_with_memes.toString();
+    document.getElementById("number-days-without-memes").innerText = (366 - num_days_with_memes).toString();
+    
+    
     // On page load, select a meme to display automatically
     var meme_displayed_on_load = false;
     
@@ -99,6 +105,20 @@ function get_number_memes() {
     var count = 0;
     for (d in meme_data) {
         count += meme_data[d].length;
+    }
+    return count
+}
+
+
+
+
+// Counts the number of days for which there is at least one meme
+function get_number_days_with_memes() {
+    var count = 0;
+    for (d in meme_data) {
+        if (meme_data[d].length > 0) {
+            count += 1;
+        }
     }
     return count
 }
