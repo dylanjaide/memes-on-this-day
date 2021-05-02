@@ -358,7 +358,17 @@ const meme_data = {
     "6May": [],
     "7May": [],
     "8May": [],
-    "9May": [],
+    "9May": [
+        {
+            "id": "cathedral-city",
+            "title": "'CATHEDRAL CITY' posted to Twitter",
+            "year": 2018,
+            "youtube": "txsHuXIZtxQ",
+            "image": false,
+            "info": "On this day, Sheffield-based pop-punk band Deadset Dream uploaded this video to Twitter. The video was also uploaded to YouTube the following day, which was then shared millions of times.",
+            "kym": false
+        }
+    ],
     "10May": [],
     "11May": [
         {
