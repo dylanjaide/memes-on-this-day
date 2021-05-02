@@ -138,7 +138,16 @@ const meme_data = {
             "image": "https://i.kym-cdn.com/entries/icons/original/000/006/026/NOTSUREIF.jpg",
             "info": "On this day, the Futurama episode 'The Lesser of Two Evils' aired for the first time. About a decade later, this still image from the episode would become the basis of a widespread meme format.",
             "kym": "https://knowyourmeme.com/memes/futurama-fry-not-sure-if"
-        }
+        },
+        {
+            "id": "no-thoughts-head-empty",
+            "title": "\'No thoughts. Head empty.' first posted",
+            "year": 2018,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/853/127/c2d",
+            "info": "On this day, Twitter user @Spruiko posted this image of Cosmo from The Fairly Oddparents. The phrase started to spread more widely during 2019, and is most commonly seen on a picture of My Melody.",
+            "kym": "https://knowyourmeme.com/memes/no-thoughts-head-empty"
+        },
     ],
     "21February": [],
     "22February": [],
