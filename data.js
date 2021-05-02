@@ -57,7 +57,17 @@ const meme_data = {
     "16January": [],
     "17January": [],
     "18January": [],
-    "19January": [],
+    "19January": [
+        {
+            "id": "flat-fuck-friday",
+            "title": "First known usage of \"flat fuck friday\"",
+            "year": 2019,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/002/076/243/27c.png",
+            "info": "On this day, Twitter user @solardivulger Tweeted this picture of a hamster. However, it received very little attention. Within the next year, a series of other Tweets also using the caption \"flat fuck friday\" with pictures of other animals, notably including one very flat crocodile. Since its rise to popularity, it has become a tradition to post images of flat-looking animals with this caption on Fridays.",
+            "kym": "https://knowyourmeme.com/memes/flat-fuck-friday"
+        }
+    ],
     "20January": [
         {
             "id": "bernie-sanders-mittens",
