@@ -900,6 +900,15 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/subcultures/bee-movie"
         },
         {
+            "id": "press-f-to-pay-respects",
+            "title": "\"Press X to pay respects\" uploaded to YouTube",
+            "year": 2015,
+            "youtube": "H5GoDAsYMUs",
+            "image": false,
+            "info": "On this day, YouTube user doku uploaded this video, which uses a clip from the opening sequence of Call of Duty: Advanced Warfare. The game itself did not release until two days later, but the meme quickly spread, especially after the scene was also criticised by Conan O'Brien. It is now more commonly known as \"Press F to pay respects\", due to F being the default key on PC copies of the game.",
+            "kym": "https://knowyourmeme.com/memes/press-f-to-pay-respects"
+        },
+        {
             "id": "distracted-boyfriend",
             "title": "Distracted Boyfriend stock image uploaded",
             "year": 2015,
@@ -910,7 +919,7 @@ const meme_data = {
         }
     ],
     "3November": [],
-    "4November": [],
+    "4November": [
     "5November": [],
     "6November": [],
     "7November": [],
