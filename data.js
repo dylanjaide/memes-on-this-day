@@ -371,7 +371,17 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/leeroy-jenkins"
         }
     ],
-    "12May": [],
+    "12May": [
+        {
+            "id": "he",
+            "title": "'he' uploaded to YouTube",
+            "year": 2019,
+            "youtube": "X8avbciUP3c",
+            "image": false,
+            "info": "he\n\nOn this day, YouTube user narpy uploaded this video.",
+            "kym": false
+        }
+    ],
     "13May": [],
     "14May": [],
     "15May": [],
