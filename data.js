@@ -212,7 +212,17 @@ const meme_data = {
     "12March": [],
     "13March": [],
     "14March": [],
-    "15March": [],
+    "15March": [
+        {
+            "id": "sea-shanty-2",
+            "title": "'Sea Shanty 2' added to RuneScape",
+            "year": 2004,
+            "youtube": "BJhF0L7pfo8",
+            "image": false,
+            "info": "On this day, RuneScape 2 was updated to add a music player, along with a lot of new songs to accompany it. One of them was Sea Shanty 2, later described by its composer, Ian Taylor, as a \"cheesy earworm\". Between its catchiness and it being heard by almost all players due to being unlocked in Port Sarim, a location close to the start of the game, it gained notoriety among players.",
+            "kym": "https://knowyourmeme.com/memes/subcultures/runescape"
+        }
+    ],
     "16March": [],
     "17March": [],
     "18March": [],
@@ -322,7 +332,17 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/neil-banging-out-the-tunes"
         }
     ],
-    "14April": [],
+    "14April": [
+        {
+            "id": "steamed-hams",
+            "title": "The Simpsons episode '22 Short Films About Springfield' first airs",
+            "year": 1996,
+            "youtube": "4jXEuIHY9ic",
+            "image": false,
+            "info": "On this day, this episode of The Simpsons first aired. Unlike most episodes, it was composed of a series of short stories each about different characters. Of these, it was the one featuring Principal Skinner and Superintendant Chalmers that became the most popular, for its escalating absurdity. Aside from being a meme in its own right, it has also been edited in a huge variety of ways, making it possibly the most well-known meme from The Simpsons.",
+            "kym": "https://knowyourmeme.com/memes/steamed-hams"
+        }
+    ],
     "15April": [],
     "16April": [],
     "17April": [],
