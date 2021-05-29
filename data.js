@@ -10,7 +10,7 @@ const meme_data = {
             "youtube": false,
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/616/502/e92.png",
             "info": "On this day, Reddit user Aalewis made a (now deleted) post on /r/atheism, containing a quote they had created themself: \"In this moment, I am euphoric. Not because of any phony god's blessing. But because, I am enlightened by my intelligence.\" This post was massively unpopular, receiving nearly 3,000 downvotes and being cross-posted to /r/cringe.\n\nLater in the same day, another Reddit user attached the quote to an image of astrophysicist Neil deGrasse Tyson, making the words appear as if they were his, and posted it back to /r/atheism. In contrast to the original post, this image was received overwhelmingly positively, even reaching the front page of the entire website.",
-            "kym": "https://knowyourmeme.com/memes/futurama-fry-not-sure-if"
+            "kym": "https://knowyourmeme.com/memes/in-this-moment-i-am-euphoric"
         }
     ],
     "5January": [],
