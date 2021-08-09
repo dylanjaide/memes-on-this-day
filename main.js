@@ -1,11 +1,22 @@
 $( document ).ready(function() {
     
-    // Define button behaviour: search for a meme using the day/month from the form
+    // Define main search button behaviour: search for a meme using the day/month from the form
     document.getElementById("submitbutton").addEventListener('click', function(e) {
         e.preventDefault();
         day = document.getElementById("days").value;
         month = document.getElementById("months").value;
         search_meme(day, month);
+    });
+    
+    // Define random meme button behaviour: randomly select a meme
+    document.getElementById("randombutton").addEventListener('click', function(e) {
+        e.preventDefault();
+        var rand_meme = get_random_meme();
+        if (typeof rand_meme["data"] !== 'undefined') {
+            display_meme(rand_meme["day"], rand_meme["month"], rand_meme["data"]);
+        } else {
+            display_error("There was an error selecting a random meme.\nPlease report this error, and try again.");
+        }
     });
     
     
@@ -91,6 +102,13 @@ function key_date_to_day_month(key_date) {
 
 
 
+function get_random_int(max_ni) {
+    return Math.floor(Math.random() * max_ni);
+}
+
+
+
+
 // Set the values in the input form <select> tags
 function set_input_form_values(day, month) {
     document.getElementById("days").value = day;
@@ -121,6 +139,27 @@ function get_number_days_with_memes() {
         }
     }
     return count
+}
+
+
+
+
+// Get info about a random meme from the database
+function get_random_meme() {
+    var n_rand_meme = get_random_int( get_number_memes() );
+    var count = 0;
+    for (d in meme_data) {
+        if ( count + meme_data[d].length > n_rand_meme ) {
+            var index = n_rand_meme - count;
+            var day_month = key_date_to_day_month(d);
+            return {
+                "day": day_month[0],
+                "month": day_month[1],
+                "data": meme_data[d][index]
+            };
+        }
+        count += meme_data[d].length;
+    }
 }
 
 

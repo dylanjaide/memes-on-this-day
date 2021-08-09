@@ -142,7 +142,7 @@ form select {
     padding: 1px 2px;
 }
 
-form input#submitbutton {
+form input[type="button"] {
     padding: 1px 5px;
 }
 
