@@ -901,7 +901,7 @@ const meme_data = {
             "id": "the-end-of-the-world",
             "title": "'The End of the World' uploaded",
             "year": 2003,
-            "youtube": "kCpjgl2baLs",
+            "youtube": "nZMwKPmsbWE",
             "image": false,
             "info": "On this day, animator Jason Windsor uploaded this Flash animation to Albino Blacksheep. It quickly went viral, and in fact is considered to be among the very first viral videos, with many lines from the video being widely quoted elsewhere online. In 2018, Windsor uploaded a sequel to YouTube, reflecting on changes in the political climate in the intervening 15 years.",
             "kym": "https://knowyourmeme.com/memes/the-end-of-the-world"
