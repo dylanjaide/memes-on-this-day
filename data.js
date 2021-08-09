@@ -228,7 +228,17 @@ const meme_data = {
     "18March": [],
     "19March": [],
     "20March": [],
-    "21March": [],
+    "21March": [
+        {
+            "id": "you-are-not-immune-to-propaganda",
+            "title": "\"You are not immune to propaganda\" image posted",
+            "year": 2018,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/429/010/a5f.jpeg",
+            "info": "On this day, Tumblr user MarkVomit posted this image, and it spread widely to other platforms over the following few months. It is primarily used in reference to marketing, in particular as a response to posts in which the original poster reacted positively to something which a company or brand did purely for advertisement or publicity.",
+            "kym": "https://knowyourmeme.com/memes/you-are-not-immune-to-propaganda"
+        }
+    ],
     "22March": [],
     "23March": [
         {
