@@ -894,7 +894,17 @@ const meme_data = {
     "25October": [],
     "26October": [],
     "27October": [],
-    "28October": [],
+    "28October": [
+        {
+            "id": "among-us",
+            "title": "'Among Us' released",
+            "year": 2018,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/original/001/890/978/6df.jpg",
+            "info": "On this day, the hidden role game Among Us was released. It was initially popular in countries including Saudi Arabia, Brazil, and South Korea, where Let's Play and comedy sketch videos about the game gained millions of views. It only rose to widespread popularity in English-speaking online communities around the start of 2020.\n\nIt rapidly became oversaturated, and people began posting ironic memes involving the crewmate characters (or minimilist representations of them), or pictures of unrelated things that looked somewhat like crewmates. In June 2021, a misshapen McDonalds chicken nugget that resembled a crewmate sold on eBay for $99,997. Other memes that have their origins in Among Us are \"____ was an imposter\", \"sus\", and \"amogus\".",
+            "kym": "https://knowyourmeme.com/memes/subcultures/among-us"
+        }
+    ],
     "29October": [],
     "30October": [
         {
