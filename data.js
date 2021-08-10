@@ -603,7 +603,17 @@ const meme_data = {
         }
     ],
     "5July": [],
-    "6July": [],
+    "6July": [
+        {
+            "id": "cats-can-have-a-little-salami",
+            "title": "\"Can My Cat Eat Salami?\" article posted",
+            "year": 2017,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/642/875/cf8.jpg",
+            "info": "On this day, an article entitled \"Can My Cat Eat Salami?\" was posted to the website MeatMenStore (now offline). Roughly 18 months later, this screenshot of a Google search result featuring that article was posted to /r/meow_irl by Reddit user Marcushelbing. The phrase \"cats can have a little salami, as a treat\" became especially popular across various social media platforms over the following months.",
+            "kym": "https://knowyourmeme.com/memes/cats-can-have-a-little-salami"
+        }
+    ],
     "7July": [],
     "8July": [
         {
