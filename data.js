@@ -130,7 +130,17 @@ const meme_data = {
     "8February": [],
     "9February": [],
     "10February": [],
-    "11February": [],
+    "11February": [
+        {
+            "id": "annoyed-bird",
+            "title": "'Juncrow' comic published",
+            "year": 2016,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/383/644/6db.png",
+            "info": "On this day, this comic entitled 'Juncrow' was published by the bird-themed webcomic False Knees. It wasn't until approximately 18 months later, after being posted to Reddit by user jaffamc, that it began to see usage as a meme. Typically, the birds' calls are replaced with something relevant to the community in which the meme is posted, putting themselves in the position of the smaller bird and using the crow to represent people who aggressively push their unsolicited opinions on a topic.",
+            "kym": "https://knowyourmeme.com/memes/annoyed-bird"
+        }
+    ],
     "12February": [],
     "13February": [],
     "14February": [],
