@@ -41,7 +41,17 @@ const meme_data = {
         }
     ],
     "12January": [],
-    "13January": [],
+    "13January": [
+        {
+            "id": "trogdor-the-burninator",
+            "title": "Trogdor the Burninator created",
+            "year": 2003,
+            "youtube": "90X5NJleYJQ?start=60",
+            "image": false,
+            "info": "On this day, the web cartoon Homestar Runner uploaded the 58th episode of the Strong Bad Email series, entitled 'Dragon', in which Strong Bad is requested to draw a dragon. On the second attempt, Strong Bad creates Trogdor the Burninator. The episode concludes with a metal song and music video about Trogdor \"burninating the countryside\". Both the character of Trogdor and the song were extremely popular with fans of the show. The song in particular became a meme that grew beyond the series itself, to the point where an extended version was included in Guitar Hero 2.",
+            "kym": "https://knowyourmeme.com/memes/trogdor"
+        }
+    ],
     "14January": [
         {
             "id": "it-is-wednesday-my-dudes-vine",
@@ -581,7 +591,17 @@ const meme_data = {
     "1July": [],
     "2July": [],
     "3July": [],
-    "4July": [],
+    "4July": [
+        {
+            "id": "my-disappointment-is-immeasurable",
+            "title": "\"My disappointment is immeasurable, and my day is ruined\" recorded",
+            "year": 2017,
+            "youtube": "5d5NJgO38AE?start=355",
+            "image": false,
+            "info": "On this day, John Jurasek (a.k.a. ReviewBrah) recorded a review of Popeyes' Cheddar Biscuit Butterfly Shrimp to their YouTube channel, TheReportOfTheWeek. Having begun the video excited, with the butterfly shrimp historically being their favourite item from the menu, they quickly found that changes to the chain's ownership had led to a significant reduction in quality. A screenshot from the video, with the quotation \"my disappointment is immeasurable, and my day is ruined\" visible in the captions, began to circulate on Twitter within a day of the video's release. As a meme, this clip from the video, the screenshot of it, and the phrase itself are all regularly used to express disappointment about other things.",
+            "kym": "https://knowyourmeme.com/memes/my-disappointment-is-immeasurable-and-my-day-is-ruined"
+        }
+    ],
     "5July": [],
     "6July": [],
     "7July": [],
@@ -823,7 +843,17 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/subcultures/undertale"
         }
     ],
-    "16September": [],
+    "16September": [
+        {
+            "id": "chug-jug-with-you",
+            "title": "'Chug Jug With You' created",
+            "year": 2018,
+            "youtube": "7yK5qHDMSXA",
+            "image": false,
+            "info": "On this day, the video 'Let’s play Fortnite!!!!' was uploaded to CM SKITS YouTube channel. This video was a short parody of the chorus of American Boy by Estelle (feat. Kanye West). While this initial video was quite popular by itself, it became even more so two months later when Leviathan uploaded a parody of the full song, using the lyrics from the original skit for the chorus. The song went viral in early 2021 (primarily on TikTok) and spawned yet more memes, in particular many referencing the line \"just wiped out Tomato Town\".",
+            "kym": "https://knowyourmeme.com/memes/chug-jug-with-you"
+        }
+    ],
     "17September": [],
     "18September": [],
     "19September": [],
