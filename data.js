@@ -597,7 +597,17 @@ const meme_data = {
         }
     ],
     "29June": [],
-    "30June": [],
+    "30June": [
+        {
+            "id": "here-comes-the-boy",
+            "title": "\"Here comes the boy\" TikTok posted",
+            "year": 2021,
+            "youtube": "SFrPIPreHs0",
+            "image": false,
+            "info": "On this day, TikTok user @june_banoon uploaded a video in which they sing about a neighbourhood cat named Mashed Potatoes as it walks towards them. Within a week, it had been watched millions of times, and thousands of other users had added instrumental parts and harmonies to the original video. The most popular Stitch was a piano part added by user @alexfromsf. Further variations on the original have since been used in their own rights as accompanying music for videos of other cats.",
+            "kym": "https://knowyourmeme.com/memes/here-comes-the-boy-hello-boy"
+        }
+    ],
     "1July": [],
     "2July": [],
     "3July": [],
