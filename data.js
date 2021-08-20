@@ -246,7 +246,17 @@ const meme_data = {
     "16March": [],
     "17March": [],
     "18March": [],
-    "19March": [],
+    "19March": [
+        {
+            "id": "miette",
+            "title": "Miette Tweet posted",
+            "year": 2019,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/entries/icons/original/000/036/888/Screen_Shot_2021-03-30_at_2.32.19_PM.png",
+            "info": "On this day, Patricia Lockwood (Twitter user @TriciaLockwood) Tweeted this about their cat, Miette. Screenshots of the Tweet spread widely on Tumblr, and users on both platforms began to create posts about their own cats imitating the writing style.",
+            "kym": "https://knowyourmeme.com/memes/miette"
+        }
+    ],
     "20March": [],
     "21March": [
         {
