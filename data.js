@@ -965,7 +965,17 @@ const meme_data = {
             "kym": "https://knowyourmeme.com/memes/valid-to-eat-fingers"
         }
     ],
-    "19October": [],
+    "19October": [
+        {
+            "id": "none-pizza-with-left-beef",
+            "title": "\"None Pizza with Left Beef\" posted",
+            "year": 2007,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/000/594/618/e70.jpg",
+            "info": "On this day, Steven from the zine-blog The Sneeze posted an article titled 'The Great Pizza Orientation Test'. In this post, they showed how the online ordering form for a major pizza chain allowed very detailed customisation options, including being able to put certain toppings on different halves of the pizza. They then went on to post pictures of the results of them ordering a few different unusual pizzas.\n\nThe final pizza proved the most popular - for this one, they removed the standard cheese and tomato, leaving it completely without toppings except for some beef on only the left half. The resulting pizza, referred to as \"None Pizza with Left Beef\", was shared widely, primarily via Tumblr. Many users even opted to order it for themselves, and uploaded their own similarly unappetising pictures to the site.",
+            "kym": "https://knowyourmeme.com/memes/special-delivery-instructions"
+        }
+    ],
     "20October": [],
     "21October": [],
     "22October": [],
