@@ -40,6 +40,8 @@ $( document ).ready(function() {
     
     
     // On page load, fill the about modal with the number of days that have memes
+    var number_memes = get_number_memes();
+    document.getElementById("number-memes").innerText = number_memes.toString();
     var num_days_with_memes = get_number_days_with_memes();
     document.getElementById("number-days-with-memes").innerText = num_days_with_memes.toString();
     document.getElementById("number-days-without-memes").innerText = (366 - num_days_with_memes).toString();
