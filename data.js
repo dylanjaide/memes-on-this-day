@@ -888,9 +888,9 @@ const meme_data = {
             "id": "chug-jug-with-you",
             "title": "'Chug Jug With You' created",
             "year": 2018,
-            "youtube": "7yK5qHDMSXA",
+            "youtube": "Z0Uh3OJCx3o",
             "image": false,
-            "info": "On this day, the video 'Let’s play Fortnite!!!!' was uploaded to CM SKITS YouTube channel. This video was a short parody of the chorus of American Boy by Estelle (feat. Kanye West). While this initial video was quite popular by itself, it became even more so two months later when Leviathan uploaded a parody of the full song, using the lyrics from the original skit for the chorus. The song went viral in early 2021 (primarily on TikTok) and spawned yet more memes, in particular many referencing the line \"just wiped out Tomato Town\".",
+            "info": "On this day, the video 'Let’s play Fortnite!!!!' was uploaded to CM SKITS YouTube channel (the video has since been taken down). This video was a short parody of the chorus of American Boy by Estelle (feat. Kanye West). While this initial video was quite popular by itself, it became even more so two months later when Leviathan uploaded a parody of the full song, using the lyrics from the original skit for the chorus. The song went viral in early 2021 (primarily on TikTok) and spawned yet more memes, in particular many referencing the line \"just wiped out Tomato Town\".",
             "kym": "https://knowyourmeme.com/memes/chug-jug-with-you"
         }
     ],
