@@ -751,7 +751,17 @@ const meme_data = {
         }
     ],
     "24July": [],
-    "25July": [],
+    "25July": [
+        {
+            "id": "pufferfish-eating-a-carrot",
+            "title": "Pufferfish eating a carrot uploaded",
+            "year": 2019,
+            "youtube": "TMqR-GBwcsY",
+            "image": false,
+            "info": "On this day, YouTube user 야미보이 Yummyboy uploaded a video of a chef handling a pufferfish in preparation for cooking it. In the middle of the video, they fed the fish a piece of carrot to demonstrate the strength of its bite, which causes the fish to make an \"augh\" sound. A few months later, in November of the same year, this portion of the video was reposted on iFunny and Instagram, causing it to go viral.",
+            "kym": "https://knowyourmeme.com/memes/pufferfish-eating-a-carrot"
+        }
+    ],
     "26July": [],
     "27July": [
         {
@@ -978,7 +988,17 @@ const meme_data = {
         }
     ],
     "11October": [],
-    "12October": [],
+    "12October": [
+        {
+            "id": "change-da-world-my-final-message",
+            "title": "'Change da world... my final message' image posted",
+            "year": 2018,
+            "youtube": "DPEvF8l9LDM",
+            "image": false,
+            "info": "On this day, Tumblr user watercup0211 (then dawatercup) posted an image of a rat with the caption \"change da world… my final message. Goodb ye\" added. While the image was relatively popular in its own right, this meme became even more popular in August 2019 after this video using it was created and posted to Twitter. The creator of the video has since deleted both the original Tweet and their account.",
+            "kym": "https://knowyourmeme.com/memes/change-da-world-my-final-message"
+        }
+    ],
     "13October": [],
     "14October": [],
     "15October": [],
