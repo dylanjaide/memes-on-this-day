@@ -818,9 +818,28 @@ const meme_data = {
     ],
     "20August": [],
     "21August": [],
-    "22August": [],
+    "22August": [
+        {
+            "id": "marine-biologist",
+            "title": "\"There are many benefits to being a marine biologist\" posted",
+            "year": 2021,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/002/184/162/6d5.jpg",
+            "info": "On this day, Tumblr user pixellecutie posted this image, saying that they had dreamt this was a popular new meme format. Other users quickly latched onto it, and began adding the same caption to pictures of other marine creatures.",
+            "kym": "https://knowyourmeme.com/memes/there-are-many-benefits-to-being-a-marine-biologist"
+        }
+    ],
     "23August": [],
-    "24August": [],
+    "24August": [
+        {
+            "id": "two-guys-on-a-bus",
+            "title": "\'Escolha o Lado Feliz da Viva!\' comic uploaded",
+            "year": 2013,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/002/252/516/701.jpg",
+            "info": "On this day, Brazilian cartoonist Genildo Ronchi uploaded a cartoon called 'As vezes só depende de nós' (in English: 'Sometimes it just depends on us'). The text on it translates to \"Choose the happy side of life!\". It is an exploitable, usually used to contrast two different things in a similar way to the Coolyori and Left Exit 12 Off Ramp meme formats. This particular image became popular in Brazilian communities in 2019, but didn't gain traction with English speakers until late 2021. English speakers usually use a version of the image in which the original Portuguese caption has been edited out.",
+            "kym": "https://knowyourmeme.com/memes/two-guys-on-a-bus"
+        }
     "25August": [],
     "26August": [
         {
