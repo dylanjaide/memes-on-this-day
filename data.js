@@ -1111,9 +1111,19 @@ const meme_data = {
             "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/195/668/4ac.png",
             "info": "On this day, Tumblr user loghains posted this, in which they describe a new meme format that they witnessed in a dream, consisting of captioning pictures of fat cats with \"bode\". Within a few days, other Tumblr users had started to create memes using this format, and it became a popular trend on the site.",
             "kym": "https://knowyourmeme.com/memes/bode"
+        },
+    ],
+    "28November": [
+        {
+            "id": "horse-plinko",
+            "title": "'Horse Plinko' uploaded",
+            "year": 2017,
+            "youtube": "WV-J7u9aoHk?start=138s",
+            "image": false,
+            "info": "On this day, computer science professor Rahul Narain uploaded this video demonstrating a technique for simulating elastic bodies, which was made with the help of their students George Brown and Matt Overby. Originally posted in 2017, it remained relatively unknown until August 2021, when he final clip from the video was isolated and reposted. This clip shows a limp horse falling through a Plinko-like structure, and it rose quickly in popularity. The most popular GIF of it, which circulated widely on Tumblr, is titled 'Horse Plinko', and has flames added at the bottom into which the horse falls.",
+            "kym": "https://knowyourmeme.com/memes/horse-plinko"
         }
     ],
-    "28November": [],
     "29November": [],
     "30November": [],
     "1December": [],
