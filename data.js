@@ -1,5 +1,15 @@
 const meme_data = {
-    "1January": [],
+    "1January": [
+        {
+            "id": "hollyweed",
+            "title": "Hollyweed sign",
+            "year": 1976,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/206/853/cdc.jpg",
+            "info": "On this day, the Hollywood Sign was modified by Danny Finegood to read 'Hollyweed' in celebration of the more relaxed marijuana laws which came into effect on the same day. While it has been modified many other times since it was built in 1923, both with and without permission, this is one of the most famous instances.\n\nExactly 41 years later, on 1st January 2017, the sign was modified in the same way by a different artist, Zachary Cole Fernandez. Even though both Finegood and Fernandez used tarps to cover over the letters instead of modifying them directly to prevent damage, Fernandez was arrested for tresspassing - in contrast to Finegood, who was awarded an 'A' on an art school assignment for it.",
+            "kym": "https://knowyourmeme.com/memes/hollywood-sign-parodies"
+        }
+    ],
     "2January": [],
     "3January": [],
     "4January": [
@@ -840,6 +850,7 @@ const meme_data = {
             "info": "On this day, Brazilian cartoonist Genildo Ronchi uploaded a cartoon called 'As vezes só depende de nós' (in English: 'Sometimes it just depends on us'). The text on it translates to \"Choose the happy side of life!\". It is an exploitable, usually used to contrast two different things in a similar way to the Coolyori and Left Exit 12 Off Ramp meme formats. This particular image became popular in Brazilian communities in 2019, but didn't gain traction with English speakers until late 2021. English speakers usually use a version of the image in which the original Portuguese caption has been edited out.",
             "kym": "https://knowyourmeme.com/memes/two-guys-on-a-bus"
         }
+    ],
     "25August": [],
     "26August": [
         {
