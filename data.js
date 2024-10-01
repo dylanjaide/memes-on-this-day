@@ -6,7 +6,7 @@ const meme_data = {
             "year": 2016,
             "youtube": false,
             "image": "https://i.kym-cdn.com/entries/icons/original/000/019/516/JS79535762.jpg",
-            "info": "On this day, this picture taken by photographer Joel Goodman was published by the Manchester Evening News. It was captioned \"Police hold on to a man while another lies in the road.\"\n\nFollowing a Tweet by Roland Hughes comparing it to a \"beautiful painting\", a senior new producer for the BBC, it began to spread in popularity. It was shared widely by other news outlets, and users on Reddit edited elements from the photo into famous historical paintings.",
+            "info": "On this day, this picture taken by photographer Joel Goodman was published by the Manchester Evening News. It was captioned \"Police hold on to a man while another lies in the road.\"\n\nFollowing a Tweet by Roland Hughes comparing it to a \"beautiful painting\", a senior news producer for the BBC, it began to spread in popularity. It was shared widely by other news outlets, and users on Reddit edited elements from the photo into famous historical paintings.",
             "kym": "https://knowyourmeme.com/memes/manchester-new-years-eve-photo"
         },
         {
