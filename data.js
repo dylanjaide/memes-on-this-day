@@ -1,6 +1,15 @@
 const meme_data = {
     "1January": [
         {
+            "id": "manchester-new-years-eve",
+            "title": "Manchester New Year's Eve Photo",
+            "year": 2016,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/entries/icons/original/000/019/516/JS79535762.jpg",
+            "info": "On this day, this picture taken by photographer Joel Goodman was published by the Manchester Evening News. It was captioned \"Police hold on to a man while another lies in the road.\"\n\nFollowing a Tweet by Roland Hughes comparing it to a \"beautiful painting\", a senior new producer for the BBC, it began to spread in popularity. It was shared widely by other news outlets, and users on Reddit edited elements from the photo into famous historical paintings.",
+            "kym": "https://knowyourmeme.com/memes/manchester-new-years-eve-photo"
+        },
+        {
             "id": "hollyweed",
             "title": "Hollyweed sign",
             "year": 1976,
@@ -877,7 +886,17 @@ const meme_data = {
     "28August": [],
     "29August": [],
     "30August": [],
-    "31August": [],
+    "31August": [
+        {
+            "id": "why-do-they-call-it-oven",
+            "title": "\"Why do they call it oven\" posted",
+            "year": 2013,
+            "youtube": false,
+            "image": "https://i.kym-cdn.com/photos/images/newsfeed/002/116/936/d6d.png",
+            "info": "On this day, Twitter user @YashichiDSF posted this Tweet. It remained largely in obscurity until August 2019, when Tumblr user ewaneneollav inserted the phrase into a segment from a Garfield comic.",
+            "kym": "https://knowyourmeme.com/memes/why-do-they-call-it-oven"
+        }
+    ],
     "1September": [],
     "2September": [
         {
